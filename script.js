@@ -5923,6 +5923,377 @@ var data = [
         "Micro": "",
         "Posto": "POPULAR",
     },
+                                  
+    {
+        "id": "735",
+        "Rua": "ANTONIO ARRAVAL FILHO",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+                                  
+    {
+        "id": "736",
+        "Rua": "LUIZ DESPONTIM",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "737",
+        "Rua": "JOSE MAURINO FILHO",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "738",
+        "Rua": "RICARDO VANDEVELO",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "739",
+        "Rua": "AQUILES JORGE STEINER",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "740",
+        "Rua": "JOAO VERONEZE",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "741",
+        "Rua": "ABNER HERACLITO DE CAMARGO",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "742",
+        "Rua": "SAO VICENTE",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "743",
+        "Rua": "ANTONIO BRIENZA",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "744",
+        "Rua": "IGNACIO CHAGAS",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "745",
+        "Rua": "OLIVIO BARBOSA (JD. MORUMBI)",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "746",
+        "Rua": "JOSE FERNANDES",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "747",
+        "Rua": "JOAO BATISTA SCARANCE",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "748",
+        "Rua": "PROFESSORA MARIA APARECIDA FERNANDES LEITE",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "749",
+        "Rua": "ANTONIO PIRES DE ALMEIDA (JARDIM MORUMBI)",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "750",
+        "Rua": "ANITA GARIBALDI (ATÉ OS FUNDOS DA RODRIAL COM R. JUSTINO COMIDE)",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "751",
+        "Rua": "AVENIDA GETULIO VARGAS - (JARDIM MORUMBI)",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "752",
+        "Rua": "BENEDITO PINTO DO AMARAL",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "753",
+        "Rua": "ARMANDO DIAS",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "754",
+        "Rua": "EMILIA ANA ANTONIO",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "755",
+        "Rua": "BASIL FERNANDO LEROY",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+                                  
+    {
+        "id": "756",
+        "Rua": "SANTA ROSA (BAMBU)",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "757",
+        "Rua": "MAESTRO BENEDITO ROGADO",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "758",
+        "Rua": "FREDERICO BRANDI (DIVISA COM JD MORUMBI)",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "759",
+        "Rua": "TRAVESSA FREDERICO BRANDI",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "760",
+        "Rua": "AVENIDA GETULIO VARGAS (BAMBU)",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "761",
+        "Rua": "CESARIO LEROY",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "762",
+        "Rua": "LOURDES COSTA DE JESUS",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "763",
+        "Rua": "ALCIDES COSTA ARANHA",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "764",
+        "Rua": "FRANCISCO OLIVEIRA LIMA",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "765",
+        "Rua": "JOAO ARANTES NETO",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "766",
+        "Rua": "ARISTIDES VALENTIM TORRES",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "767",
+        "Rua": "WANDA PREVITALI THOME",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "768",
+        "Rua": "ANTONIO PIRES DE ALMEIDA (JARDIM BELA FONTE)",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "769",
+        "Rua": "PEDRO FERRAZ DA SILVA",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "770",
+        "Rua": "ANTONIO PIRES DE ALMEIDA (JARDIM SÃO PEDRO)",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "771",
+        "Rua": "CONSELHEIRO MANOEL DIAS DE TOLEDO (CIDADE JARDIM)",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "772",
+        "Rua": "LAIS SOLANGE FERRAZ",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "773",
+        "Rua": "SOLANGE DE FATIMA ZILI",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "774",
+        "Rua": "SEBASTIAO XAVIER ANTUNES",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "",
+        "Rua": "",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+
+
+
+
 
 ];
 
