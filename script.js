@@ -6355,7 +6355,7 @@ var data = [
                                   
     {
         "id": "783",
-        "Rua": JULIO ALVES DE OLIVEIRA"",
+        "Rua": "JULIO ALVES DE OLIVEIRA",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
