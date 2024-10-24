@@ -6283,8 +6283,349 @@ var data = [
 
                                   
     {
-        "id": "",
-        "Rua": "",
+        "id": "775",
+        "Rua": "LUIS DE BARROS PINHEIRO",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+                                  
+    {
+        "id": "776",
+        "Rua": "ARMANDO HONORA (ATÉ ANTONIO PIRES DE ALMEIDA - LIMITE)",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "777",
+        "Rua": "ANTONIO PIRES DE ALMEIDA (CIDADE JARDIM)",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "778",
+        "Rua": "JOAO MENEGON (SEGATEX MADEIRAS)",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "779",
+        "Rua": "OTAVIO DE MORAES (ATÉ BRAXISTER DE CAMARGO - RUA SEMÁFORO COM A SIDNYL)",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "780",
+        "Rua": "GENTIL DE ARRUDA",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "781",
+        "Rua": "ANTONIO JACOMASSI",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "782",
+        "Rua": "BELARMINO FELIX",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "783",
+        "Rua": JULIO ALVES DE OLIVEIRA"",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "784",
+        "Rua": "ANTONIO PIRES DE ALMEIDA (DO OUTRO LADO DA SIDNYL)",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "785",
+        "Rua": "NOEL DE CAMARGO",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "786",
+        "Rua": "PAULINO DE BERNARDES",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "787",
+        "Rua": "JOAO GONÇALVES DE CAMARGO",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "788",
+        "Rua": "RUA ANGELO DIANA (JARDIM PORTO FELIZ - PRAÇA ESCOLA BAMBU ATÉ EDIF AMÉRICA Nº 891)",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "789",
+        "Rua": "JOAO BATISTA FERRAZ (JARDIM PORTO FELIZ)",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "790",
+        "Rua": "RENATO RODOVALHO DE OLIVEIRA",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "791",
+        "Rua": "FRANCISCO ROCHA",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "792",
+        "Rua": "PROFESSOR JEFFERSON SOARES DE SOUZA",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "793",
+        "Rua": "SANTA COAN MORO",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "794",
+        "Rua": "ALBINO VALINI",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "795",
+        "Rua": "CONSELHEIRO MANOEL DIAS DE TOLEDO (ATÉ ALBINO VALINI - PAR E IMPAR)",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "796",
+        "Rua": "AVENIDA GETULIO VARGAS (JARDIM BRASIL - SERVIDÃO DA CESARIO LEROY ATÉ CEMEX)",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "797",
+        "Rua": "BAHIA (JARDIM BRASIL)",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "798",
+        "Rua": "MINAS GERAIS (JARDIM BRASIL)",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "799",
+        "Rua": "HERMINIO LEROY",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "800",
+        "Rua": "RIO GRANDE DO SUL (CORTA A RUA MINAS GERAIS)",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "801",
+        "Rua": "ANTONIO SOARES DE SOUZA",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "802",
+        "Rua": "RUA ORTOFEN",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "803",
+        "Rua": "MARANHÃO",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "804",
+        "Rua": "AMAZONAS",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "805",
+        "Rua": "PIAUI",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+                                  
+    {
+        "id": "806",
+        "Rua": "RIO GRANDE DO NORTE",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "807",
+        "Rua": "RIO GRANDE DO SUL (JARDIM BRASIL I)",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "808",
+        "Rua": "AVENIDA TEXTIL GABRIEL (STEMMANN - ANTES DO RIACHO DA BAIXADA)",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "809",
+        "Rua": "CONDOMINIOS PORTAL I E II",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "810",
+        "Rua": "PORTAL VILLE FALMBOYANT",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "811",
+        "Rua": "TERRAS DE SAN RAFAEL",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+                                  
+    {
+        "id": "812",
+        "Rua": "PALMITAL (CHÁCARAS PRÓXIMAS DA PORTO SA)",
+        "Equipe": "BRONZE",
+        "Micro": "",
+        "Posto": "BAMBU",
+    },
+
+
+                                  
+    {
+        "id": "813",
+        "Rua": "PORTO FELIZ SA - FUNDOS",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
