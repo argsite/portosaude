@@ -6620,8 +6620,6 @@ var data = [
         "Micro": "",
         "Posto": "BAMBU",
     },
-
-
                                   
     {
         "id": "813",
@@ -6630,9 +6628,40 @@ var data = [
         "Micro": "",
         "Posto": "BAMBU",
     },
+                              
+    {
+        "id": "814",
+        "Rua": "LUIS GUTIERREZ RUIZ",
+        "Equipe": "BRANCA",
+        "Micro": "",
+        "Posto": "VILA AMÉRICA",
+    },
+                              
+    {
+        "id": "815",
+        "Rua": "LARISSA RAVELI",
+        "Equipe": "BRANCA",
+        "Micro": "",
+        "Posto": "VILA AMÉRICA",
+    },
 
+                              
+    {
+        "id": "816",
+        "Rua": "FLORIANO PIRES",
+        "Equipe": "BRANCA",
+        "Micro": "",
+        "Posto": "VILA AMÉRICA",
+    },
 
-
+                              
+    {
+        "id": "817",
+        "Rua": "CONDOMINIO SAO MATEUS",
+        "Equipe": "BRANCA",
+        "Micro": "",
+        "Posto": "VILA AMÉRICA",
+    },
 
 
 
