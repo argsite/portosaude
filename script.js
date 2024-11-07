@@ -6663,6 +6663,75 @@ var data = [
         "Posto": "VILA AMÉRICA",
     },
 
+     {
+        "id": "818",
+        "Rua": "OSMILDO ROCHA",
+        "Equipe": "BRANCA",
+        "Micro": "",
+        "Posto": "VILA AMÉRICA",
+    },
+
+    {
+        "id": "819",
+        "Rua": "ANTENOR BELLON",
+        "Equipe": "BRANCA",
+        "Micro": "",
+        "Posto": "VILA AMÉRICA",
+    },
+
+    {
+        "id": "820",
+        "Rua": "FIORAVANTE MIETTO",
+        "Equipe": "BRANCA",
+        "Micro": "",
+        "Posto": "VILA AMÉRICA",
+    },
+
+    {
+        "id": "821",
+        "Rua": "JOSE ATILIO COLE",
+        "Equipe": "BRANCA",
+        "Micro": "",
+        "Posto": "VILA AMÉRICA",
+    },
+
+    {
+        "id": "822",
+        "Rua": "PEDRO GERALDO POLAZ",
+        "Equipe": "BRANCA",
+        "Micro": "",
+        "Posto": "VILA AMÉRICA",
+    },
+
+    {
+        "id": "823",
+        "Rua": "ANSELMO BUENO DE OLIVEIRA",
+        "Equipe": "BRANCA",
+        "Micro": "",
+        "Posto": "VILA AMÉRICA",
+    },
+
+    {
+        "id": "824",
+        "Rua": "FLAVIO SAMPAIO",
+        "Equipe": "BRANCA",
+        "Micro": "",
+        "Posto": "VILA AMÉRICA",
+    },
+
+    {
+        "id": "825",
+        "Rua": "HENRIQUE WANDEVELD",
+        "Equipe": "BRANCA",
+        "Micro": "",
+        "Posto": "VILA AMÉRICA",
+    },
+
+
+
+
+
+
 
 
 ];
