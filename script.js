@@ -6727,6 +6727,15 @@ var data = [
         "Posto": "VILA AMÉRICA",
     },
 
+    {
+        "id": "826",
+        "Rua": "ALEXANDRE AMBROSIO",
+        "Equipe": "BRANCA",
+        "Micro": "",
+        "Posto": "VILA AMÉRICA",
+    },
+
+
 
 
 
