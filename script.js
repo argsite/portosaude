@@ -1468,6 +1468,14 @@ var data = [
     },
 
     {
+        "id": "178",
+        "Rua": "DJALMA DE OLIVEIRA",
+        "Equipe": "BRANCA",
+        "Micro": "04",
+        "Posto": "VILA AMÉRICA",
+    },
+
+    {
         "id": "179",
         "Rua": "VIOLETAS",
         "Equipe": "BRANCA",
