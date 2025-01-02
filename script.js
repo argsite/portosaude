@@ -326,14 +326,14 @@ var data = [
         "ACS": "KAUAN",
     },
 
-    {
+   /* {
         "id": "37",
         "Rua": "SILVIO BRAND CORREIA",
         "Equipe": "AZUL",
         "Micro": "2",
         "Posto": "VANTE",
         "ACS": "KAUAN",
-    },
+    }, */
 
     {
         "id": "38",
@@ -343,13 +343,13 @@ var data = [
         "Posto": "VANTE",
     },
 
-    {
+  /*  {
         "id": "39",
         "Rua": "SILVIO BRAND CORREA",
         "Equipe": "AZUL",
         "Micro": "3",
         "Posto": "VANTE",
-    },
+    }, */
 
     {
         "id": "40",
@@ -367,13 +367,13 @@ var data = [
         "Posto": "VANTE",
     },
 
-    {
+/*    {
         "id": "42",
         "Rua": "SILVIO BRAND CORREIA",
         "Equipe": "AZUL",
         "Micro": "4",
         "Posto": "VANTE",
-    },
+    }, */
 
     {
         "id": "43",
