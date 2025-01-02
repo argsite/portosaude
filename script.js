@@ -4,7 +4,7 @@ var data = [
 
     {
         "id": "1",
-        "Rua": "SILVIO BRAND CORREIA",
+        "Rua": "SILVIO BRAND CORREIA - LADO ÍMPAR A PARTIR DE 726 - LADO PAR A PARTIR DE 861",
         "Equipe": "AZUL",
         "Micro": "1 - VISTA ALEGRE",
         "Posto": "VANTE",
@@ -385,7 +385,7 @@ var data = [
 
     {
         "id": "44",
-        "Rua": "ARISTIDES CANDIDO DA SILVA",
+        "Rua": "ARISTIDES CANDIDO DA SILVA - A PARTIR DE 500",
         "Equipe": "AZUL",
         "Micro": "5 - ALTOS DO JEQUITIBA",
         "Posto": "VANTE",
@@ -437,7 +437,7 @@ var data = [
 
     {
         "id": "50",
-        "Rua": "ARISTIDES CANDIDO DA SILVA",
+        "Rua": "ARISTIDES CANDIDO DA SILVA - ATÉ 500",
         "Equipe": "VERDE",
         "Micro": "1",
         "Posto": "VANTE",
@@ -501,7 +501,7 @@ var data = [
 
     {
         "id": "58",
-        "Rua": "SILVIO BRAND CORREIA",
+        "Rua": "SILVIO BRAND CORREIA - LADO IMPAR ATÉ 725 - LADO PAR ATÉ 860",
         "Equipe": "VERDE",
         "Micro": "3",
         "Posto": "VANTE",
