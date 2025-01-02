@@ -587,13 +587,13 @@ var data = [
         "Posto": "VANTE",
     },
 
-    {
+ /*   {
         "id": "69",
         "Rua": "SILVIO BRAND CORREIRA",
         "Equipe": "VERDE",
         "Micro": "5",
         "Posto": "VANTE",
-    },
+    }, */
 
     {
         "id": "70",
