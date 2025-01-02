@@ -6,7 +6,7 @@ var data = [
         "id": "1",
         "Rua": "SILVIO BRAND CORREIA - LADO ÍMPAR A PARTIR DE 726 - LADO PAR A PARTIR DE 861",
         "Equipe": "AZUL",
-        "Micro": "1 - VISTA ALEGRE",
+        "Micro": "1, 2, 3 e 4 - VISTA ALEGRE",
         "Posto": "VANTE",
         "ACS": "TIAGO",
     },
@@ -439,7 +439,7 @@ var data = [
         "id": "50",
         "Rua": "ARISTIDES CANDIDO DA SILVA - ATÉ 500",
         "Equipe": "VERDE",
-        "Micro": "1",
+        "Micro": "1 e 2",
         "Posto": "VANTE",
     },
 
@@ -459,13 +459,13 @@ var data = [
         "Posto": "VANTE",
     },
 
-    {
+ /*   {
         "id": "53",
         "Rua": "ARISTIDES CANDIDO DA SILVA",
         "Equipe": "VERDE",
         "Micro": "2",
         "Posto": "VANTE",
-    },
+    }, */
 
     {
         "id": "54",
