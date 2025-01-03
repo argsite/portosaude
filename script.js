@@ -576,7 +576,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "4",
         "Posto": "VANTE",
-	"CEP": "",
+	"CEP": "18543-524",
     },
 
     {
@@ -585,6 +585,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "4",
         "Posto": "VANTE",
+	"CEP": "18543-536",
     },
 
     {
@@ -593,6 +594,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "4",
         "Posto": "VANTE",
+	"CEP": "18543-538",
     },
 
     {
@@ -601,6 +603,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "5",
         "Posto": "VANTE",
+	"CEP": "18543-534",
     },
 
     {
@@ -609,6 +612,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "5",
         "Posto": "VANTE",
+	"CEP": "18543-012",
     },
 
     {
@@ -617,6 +621,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "5",
         "Posto": "VANTE",
+	"CEP": "18543-008",
     },
 
     {
@@ -625,6 +630,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "5",
         "Posto": "VANTE",
+	"CEP": "18543-006",
     },
 
     {
@@ -633,6 +639,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "5",
         "Posto": "VANTE",
+	"CEP": "18543-002",
     },
 
     {
@@ -641,11 +648,12 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "5",
         "Posto": "VANTE",
+	"CEP": "18543-004",
     },
 
  /*   {
         "id": "69",
-        "Rua": "SILVIO BRAND CORREIRA",
+        "Rua": "SILVIO BRAND CORREIA",
         "Equipe": "VERDE",
         "Micro": "5",
         "Posto": "VANTE",
@@ -657,6 +665,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "5",
         "Posto": "VANTE",
+	"CEP": "18543-538",
     },
 
     {
@@ -665,6 +674,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "5",
         "Posto": "VANTE",
+	"CEP": "18543-014",
     },
 
     {
@@ -673,6 +683,7 @@ var data = [
         "Equipe": "VERMELHA",
         "Micro": "01 - AGROVILA CAIC SETOR II",
         "Posto": "CAIC",
+	"CEP": "18548-002",
     },
 
     {
@@ -681,6 +692,7 @@ var data = [
         "Equipe": "VERMELHA",
         "Micro": "01 - AGROVILA CAIC SETOR II",
         "Posto": "CAIC",
+	"CEP": "18548-004",
     },
 
     {
@@ -689,6 +701,7 @@ var data = [
         "Equipe": "VERMELHA",
         "Micro": "01 - AGROVILA CAIC SETOR II",
         "Posto": "CAIC",
+	"CEP": "18548-006",
     },
 
     {
@@ -697,6 +710,7 @@ var data = [
         "Equipe": "VERMELHA",
         "Micro": "01 - AGROVILA CAIC SETOR II",
         "Posto": "CAIC",
+	"CEP": " ",
     },
 
     {
@@ -705,6 +719,7 @@ var data = [
         "Equipe": "VERMELHA",
         "Micro": "01 - ITAQUI",
         "Posto": "CAIC",
+	"CEP": " ",
     },
 
     {
@@ -713,6 +728,7 @@ var data = [
         "Equipe": "VERMELHA",
         "Micro": "01 - ITAQUI",
         "Posto": "CAIC",
+	"CEP": " ",
     },
 
     {
@@ -721,6 +737,7 @@ var data = [
         "Equipe": "VERMELHA",
         "Micro": "02 - AGROVILA CAIC SETOR II",
         "Posto": "CAIC",
+	"CEP": "18548-008",
     },
 
     {
@@ -729,6 +746,7 @@ var data = [
         "Equipe": "VERMELHA",
         "Micro": "02 - AGROVILA CAIC SETOR II",
         "Posto": "CAIC",
+	"CEP": "18548-010",
     },
 
     {
@@ -737,6 +755,7 @@ var data = [
         "Equipe": "VERMELHA",
         "Micro": "02 - AGROVILA CAIC SETOR II",
         "Posto": "CAIC",
+	"CEP": "18548-012",
     },
 
     {
@@ -745,6 +764,7 @@ var data = [
         "Equipe": "VERMELHA",
         "Micro": "02 - AGROVILA CAIC SETOR II",
         "Posto": "CAIC",
+	"CEP": "18548-014",
     },
 
     {
@@ -753,6 +773,7 @@ var data = [
         "Equipe": "VERMELHA",
         "Micro": "05 - AGROVILA CAIC SETOR III",
         "Posto": "CAIC",
+	"CEP": "18548-024",
     },
 
     {
@@ -761,6 +782,7 @@ var data = [
         "Equipe": "VERMELHA",
         "Micro": "05 - AGROVILA CAIC SETOR III",
         "Posto": "CAIC",
+	"CEP": "18548-024",
     },
 
     {
@@ -769,6 +791,7 @@ var data = [
         "Equipe": "VERMELHA",
         "Micro": "05 - AGROVILA CAIC SETOR III",
         "Posto": "CAIC",
+	"CEP": "",
     },
 
     {
@@ -777,6 +800,7 @@ var data = [
         "Equipe": "VERMELHA",
         "Micro": "05 - AGROVILA CAIC SETOR III",
         "Posto": "CAIC",
+	"CEP": " ",
     },
 
     {
@@ -785,6 +809,7 @@ var data = [
         "Equipe": "VERMELHA",
         "Micro": "07 - AGROVILA CAIC SETOR I",
         "Posto": "CAIC",
+	"CEP": "18540-991",
     },
 
     {
@@ -793,6 +818,7 @@ var data = [
         "Equipe": "VERMELHA",
         "Micro": "07 - AGROVILA CAIC SETOR I",
         "Posto": "CAIC",
+	"CEP": " ",
     },
 
     {
@@ -801,102 +827,115 @@ var data = [
         "Equipe": "VERMELHA",
         "Micro": "07 - AGROVILA CAIC SETOR I",
         "Posto": "CAIC",
+	"CEP": " ",
     },
 
     {
         "id": "89",
         "Rua": "ALAMEDA DA SAUDADE",
         "Equipe": "BRANCA",
-        "Micro": "01",
+        "Micro": "01 - RES CELIA MARIA",
         "Posto": "VILA AMÉRICA",
+	"CEP": "18546-334",
     },
 
     {
         "id": "90",
         "Rua": "ALEXANDRE FERRARI",
         "Equipe": "BRANCA",
-        "Micro": "01",
+        "Micro": "01 - RES CELIA MARIA",
         "Posto": "VILA AMÉRICA",
+	"CEP": "18546-320",
     },
 
     {
         "id": "91",
-        "Rua": "ANTONIO NUNES",
+        "Rua": "TRAVESSA ANTONIO NUNES",
         "Equipe": "BRANCA",
-        "Micro": "01",
+        "Micro": "01 - RES RAFAEL ALCALA",
         "Posto": "VILA AMÉRICA",
+	"CEP": "18546-234",
     },
 
     {
         "id": "92",
-        "Rua": "ANTONIO TEODORO ALCALÁ",
+        "Rua": "ANTONIO TEODORO ALCALA",
         "Equipe": "BRANCA",
-        "Micro": "01",
+        "Micro": "01 - RES CELIA MARIA",
         "Posto": "VILA AMÉRICA",
+	"CEP": "18546-324",
     },
 
     {
         "id": "93",
         "Rua": "BENEDITO FERRARI",
         "Equipe": "BRANCA",
-        "Micro": "01",
+        "Micro": "01 - RES RAFAEL ALCALA",
         "Posto": "VILA AMÉRICA",
+	"CEP": "18546-224",
     },
 
     {
         "id": "94",
-        "Rua": "DIRCEU MARIA STETNER",
+        "Rua": "DIRCEU MARIA STETTNER",
         "Equipe": "BRANCA",
-        "Micro": "01",
+        "Micro": "01 - RES RAFAEL ALCALA",
         "Posto": "VILA AMÉRICA",
+	"CEP": "18546-226",
     },
 
     {
         "id": "95",
-        "Rua": "DOLORES ALCALÁ",
+        "Rua": "DOLORES GARCIA ALCALA",
         "Equipe": "BRANCA",
-        "Micro": "01",
+        "Micro": "01 - RES SANTA CLARA",
         "Posto": "VILA AMÉRICA",
+	"CEP": "18546-314",
     },
 
     {
         "id": "96",
-        "Rua": "EUGENIO EUGIDIO ALCALÁ",
+        "Rua": "EUGENIO EUGIDIO ALCALA",
         "Equipe": "BRANCA",
-        "Micro": "01",
+        "Micro": "01 - RES SANTA CLARA",
         "Posto": "VILA AMÉRICA",
+	"CEP": "18546-316",
     },
 
     {
         "id": "97",
         "Rua": "IRTON MAURICIO DE OLIVEIRA",
         "Equipe": "BRANCA",
-        "Micro": "01",
+        "Micro": "01 - RES RAFAEL ALCALA",
         "Posto": "VILA AMÉRICA",
+	"CEP": "18546-236",
     },
 
     {
         "id": "98",
         "Rua": "JOSE ALCALA",
         "Equipe": "BRANCA",
-        "Micro": "01",
+        "Micro": "01 - RES CELIA MARIA",
         "Posto": "VILA AMÉRICA",
+	"CEP": "18546-322",
     },
 
     {
         "id": "99",
         "Rua": "LUIZ ALCALA",
         "Equipe": "BRANCA",
-        "Micro": "01",
+        "Micro": "01 - RES CELIA MARIA",
         "Posto": "VILA AMÉRICA",
+	"CEP": "18546-328",
     },
 
     {
         "id": "100",
         "Rua": "MANOEL POLICORPIO ALCALA",
         "Equipe": "BRANCA",
-        "Micro": "01",
+        "Micro": "01 - RES CELIA MARIA",
         "Posto": "VILA AMÉRICA",
+	"CEP": "18546-326",
     },
 
     {
@@ -905,6 +944,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "01",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -913,6 +953,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "01",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -921,6 +962,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "01",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -929,6 +971,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "01",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -937,6 +980,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "01",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -945,6 +989,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "02",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -953,6 +998,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "02",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -961,6 +1007,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "02",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -969,6 +1016,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "02",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -977,6 +1025,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "02",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -985,6 +1034,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "02",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -993,6 +1043,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "02",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1001,6 +1052,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "02",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1009,6 +1061,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "02",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1017,6 +1070,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "03",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1025,6 +1079,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "03",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1033,6 +1088,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "03",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1041,6 +1097,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "03",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1049,6 +1106,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "03",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1057,6 +1115,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "03",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1065,6 +1124,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "03",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1073,6 +1133,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "03",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1081,6 +1142,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "03",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1089,6 +1151,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "03",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1097,6 +1160,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "03",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1105,6 +1169,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "04",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1113,6 +1178,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "04",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1121,6 +1187,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "04",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1129,6 +1196,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "04",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1137,6 +1205,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "04",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1145,6 +1214,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "04",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1153,6 +1223,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "04",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1161,6 +1232,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "04",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1169,6 +1241,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "04",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1177,6 +1250,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "04",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1185,6 +1259,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "04",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1193,6 +1268,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "04",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1201,6 +1277,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "04",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1209,6 +1286,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "04",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1217,6 +1295,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "04",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1225,6 +1304,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "04",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1233,6 +1313,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "04",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1241,6 +1322,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "04",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1249,6 +1331,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "05",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1257,6 +1340,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "05",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1265,6 +1349,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "05",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1273,6 +1358,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "05",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1281,6 +1367,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "05",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1289,6 +1376,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "05",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1297,6 +1385,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "05",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1305,6 +1394,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "05",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1313,6 +1403,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "05",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1321,6 +1412,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "05",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1329,6 +1421,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "05",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1337,6 +1430,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "05",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1345,6 +1439,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "05",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1353,6 +1448,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "05",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1361,6 +1457,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "05",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1369,6 +1466,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "05",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1377,6 +1475,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "05",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1385,6 +1484,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "06",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1393,6 +1493,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "06",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1401,6 +1502,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "06",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1409,6 +1511,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "06",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1417,6 +1520,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "06",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1425,6 +1529,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "06",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1433,6 +1538,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "06",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1441,6 +1547,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "06",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1449,6 +1556,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "06",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1457,6 +1565,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "06",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1465,6 +1574,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "06",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1473,6 +1583,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "06",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1481,6 +1592,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "06",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1489,6 +1601,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "06",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1497,6 +1610,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "06",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1505,6 +1619,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "06",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1513,6 +1628,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "06",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1521,6 +1637,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "06",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1529,6 +1646,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "04",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1537,6 +1655,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "06",
         "Posto": "VILA AMÉRICA",
+	"CEP": "",
     },
 
     {
@@ -1545,6 +1664,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1553,6 +1673,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1561,6 +1682,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1569,6 +1691,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1577,6 +1700,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1585,6 +1709,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1593,6 +1718,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1601,6 +1727,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1609,6 +1736,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1617,6 +1745,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1625,6 +1754,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1633,6 +1763,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1641,6 +1772,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1649,6 +1781,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1657,6 +1790,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1665,6 +1799,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1673,6 +1808,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1681,6 +1817,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1689,6 +1826,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1697,6 +1835,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1705,6 +1844,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1713,6 +1853,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1721,6 +1862,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
