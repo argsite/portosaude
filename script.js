@@ -289,7 +289,7 @@ var data = [
         "Micro": "1 - OLIVIO BARBOSA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-190",
     },
 
     {
@@ -299,7 +299,7 @@ var data = [
         "Micro": "1 - OLIVIO BARBOSA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-192",
     },
 
     {
@@ -309,7 +309,7 @@ var data = [
         "Micro": "1 - OLIVIO BARBOSA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-194",
     },
 
     {
@@ -319,7 +319,7 @@ var data = [
         "Micro": "1 - JARDIM PORTO CITY",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18549-899",
     },
 
     {
@@ -329,7 +329,7 @@ var data = [
         "Micro": "1 - JARDIM PORTO CITY",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-204",
     },
 
     {
@@ -346,20 +346,20 @@ var data = [
         "id": "35",
         "Rua": "DOMINGOS TOME",
         "Equipe": "AZUL",
-        "Micro": "2",
+        "Micro": "2 e 3",
         "Posto": "VANTE",
         "ACS": "KAUAN",
-	"CEP": " ",
+	"CEP": "18543-502",
     },
 
     {
         "id": "36",
-        "Rua": "JOAO BATISTA MANTOVANI",
+        "Rua": "JOAO BAPTISTA MANTOVANI",
         "Equipe": "AZUL",
         "Micro": "2",
         "Posto": "VANTE",
         "ACS": "KAUAN",
-	"CEP": " ",
+	"CEP": "18543-510",
     },
 
    /* {
@@ -371,14 +371,14 @@ var data = [
         "ACS": "KAUAN",
     }, */
 
-    {
+   /* {
         "id": "38",
         "Rua": "DOMINGOS TOME",
         "Equipe": "AZUL",
         "Micro": "3",
         "Posto": "VANTE",
-	"CEP": " ",
-    },
+	"CEP": "",
+    }, */
 
   /*  {
         "id": "39",
@@ -394,7 +394,7 @@ var data = [
         "Equipe": "AZUL",
         "Micro": "3",
         "Posto": "VANTE",
-	"CEP": " ",
+	"CEP": "18543-504",
     },
 
     {
@@ -403,7 +403,7 @@ var data = [
         "Equipe": "AZUL",
         "Micro": "4",
         "Posto": "VANTE",
-	"CEP": " ",
+	"CEP": "18543-514",
     },
 
 /*    {
@@ -416,11 +416,11 @@ var data = [
 
     {
         "id": "43",
-        "Rua": "JOSEFINA SIMEIRA",
+        "Rua": "JOSEPHINA SIMEIRA",
         "Equipe": "AZUL",
         "Micro": "4",
         "Posto": "VANTE",
-	"CEP": " ",
+	"CEP": "18543-508",
     },
 
     {
@@ -430,7 +430,7 @@ var data = [
         "Micro": "5 - ALTOS DO JEQUITIBA",
         "Posto": "VANTE",
         "ACS": "BRUNO",
-	"CEP": " ",
+	"CEP": "18543-538",
     },
 
     {
@@ -440,7 +440,7 @@ var data = [
         "Micro": "5 - ALTOS DO JEQUITIBA",
         "Posto": "VANTE",
         "ACS": "BRUNO",
-	"CEP": " ",
+	"CEP": "18543-542",
     },
 
     {
@@ -450,7 +450,7 @@ var data = [
         "Micro": "5 - ALTOS DO JEQUITIBA",
         "Posto": "VANTE",
         "ACS": "BRUNO",
-	"CEP": " ",
+	"CEP": "18543-544",
     },
 
     {
@@ -460,7 +460,7 @@ var data = [
         "Micro": "5 - ALTOS DO JEQUITIBA",
         "Posto": "VANTE",
         "ACS": "BRUNO",
-	"CEP": " ",
+	"CEP": "18543-540",
     },
 
     {
@@ -469,7 +469,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "1",
         "Posto": "VANTE",
-	"CEP": " ",
+	"CEP": "18543-516",
     },
 
     {
@@ -478,7 +478,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "1",
         "Posto": "VANTE",
-	"CEP": " ",
+	"CEP": "18543-528",
     },
 
     {
@@ -487,7 +487,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "1 e 2",
         "Posto": "VANTE",
-	"CEP": " ",
+	"CEP": "18543-538",
     },
 
     {
@@ -496,7 +496,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "2",
         "Posto": "VANTE",
-	"CEP": " ",
+	"CEP": "18543-530",
     },
 
     {
@@ -505,7 +505,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "2",
         "Posto": "VANTE",
-	"CEP": " ",
+	"CEP": "18543-522",
     },
 
  /*   {
@@ -522,7 +522,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "2",
         "Posto": "VANTE",
-	"CEP": " ",
+	"CEP": "18543-502",
     },
 
     {
@@ -531,7 +531,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "3",
         "Posto": "VANTE",
-	"CEP": " ",
+	"CEP": "18543-532",
     },
 
     {
@@ -540,7 +540,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "3",
         "Posto": "VANTE",
-	"CEP": " ",
+	"CEP": "18543-514",
     },
 
     {
@@ -549,7 +549,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "3",
         "Posto": "VANTE",
-	"CEP": " ",
+	"CEP": "18543-016",
     },
 
     {
@@ -567,7 +567,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "3",
         "Posto": "VANTE",
-	"CEP": " ",
+	"CEP": "18543-538",
     },
 
     {
@@ -576,7 +576,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "4",
         "Posto": "VANTE",
-	"CEP": " ",
+	"CEP": "",
     },
 
     {
