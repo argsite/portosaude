@@ -942,18 +942,18 @@ var data = [
         "id": "101",
         "Rua": "NELO RODRIGUES DE ARRUDA",
         "Equipe": "BRANCA",
-        "Micro": "01",
+        "Micro": "01 - RES RAFAEL ALCALA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-230",
     },
 
     {
         "id": "102",
         "Rua": "PAULO DE OLIVEIRA DINIZ",
         "Equipe": "BRANCA",
-        "Micro": "01",
+        "Micro": "01 - RES RAFAEL ALCALA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-232",
     },
 
     {
@@ -962,223 +962,223 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "01",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": " ",
     },
 
     {
         "id": "104",
         "Rua": "RAFAEL ALCALA",
         "Equipe": "BRANCA",
-        "Micro": "01",
+        "Micro": "01 - RES CELIA MARIA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-330",
     },
 
     {
         "id": "105",
         "Rua": "ZACARIAS CADETE DA SILVA",
         "Equipe": "BRANCA",
-        "Micro": "01",
+        "Micro": "01 - RES SANTA CLARA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-312",
     },
 
     {
         "id": "106",
-        "Rua": "ARACI SAMPAIO DE ALMEIDA",
+        "Rua": "ARACY SAMPAIO DE ALMEIDA",
         "Equipe": "BRANCA",
-        "Micro": "02",
+        "Micro": "02 - VILA MANDUQUINHA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-154",
     },
 
     {
         "id": "107",
         "Rua": "MONSENHOR SECKLER",
         "Equipe": "BRANCA",
-        "Micro": "02",
+        "Micro": "02 - VILA MANDUQUINHA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-158",
     },
 
     {
         "id": "108",
         "Rua": "BENEDITO MARTINS SAMPAIO",
         "Equipe": "BRANCA",
-        "Micro": "02",
+        "Micro": "02 - VILA MANDUQUINHA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-152",
     },
 
     {
         "id": "109",
         "Rua": "JOAQUIM SAMPAIO SOBRINHO",
         "Equipe": "BRANCA",
-        "Micro": "02",
+        "Micro": "02 - VILA MANDUQUINHA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-150",
     },
 
     {
         "id": "110",
         "Rua": "JOSE GIULI BATISTA",
         "Equipe": "BRANCA",
-        "Micro": "02",
+        "Micro": "02 - VILA MANDUQUINHA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-148",
     },
 
     {
         "id": "111",
         "Rua": "JOSE LATURRAGE",
         "Equipe": "BRANCA",
-        "Micro": "02",
+        "Micro": "02 - VILA MANDUQUINHA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-156",
     },
 
     {
         "id": "112",
         "Rua": "MANOEL ITAGIBA DE ALMEIDA",
         "Equipe": "BRANCA",
-        "Micro": "02",
+        "Micro": "02 - VILA MANDUQUINHA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-144",
     },
 
     {
         "id": "113",
         "Rua": "OTACILIO MARTINS SAMPAIO",
         "Equipe": "BRANCA",
-        "Micro": "02",
+        "Micro": "02 - VILA MANDUQUINHA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-146",
     },
 
     {
         "id": "114",
-        "Rua": "OTONIEL SAMPAIO",
+        "Rua": "OTHONIEL SAMPAIO",
         "Equipe": "BRANCA",
-        "Micro": "02",
+        "Micro": "02 - VILA MANDUQUINHA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-140",
     },
 
     {
         "id": "115",
-        "Rua": "ARACI SAMPAIO DE ALMEIDA",
+        "Rua": "ARACY SAMPAIO DE ALMEIDA",
         "Equipe": "BRANCA",
-        "Micro": "03",
+        "Micro": "03 - JARDIM BORBA GATO",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-124",
     },
 
     {
         "id": "116",
         "Rua": "FRANCISCO NUNES SECKLER",
         "Equipe": "BRANCA",
-        "Micro": "03",
+        "Micro": "03 - JARDIM SECKLER",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-086",
     },
 
     {
         "id": "117",
         "Rua": "MAURICIO DA MATTA OLIVEIRA",
         "Equipe": "BRANCA",
-        "Micro": "03",
+        "Micro": "03 - JARDIM BORBA GATO",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-128",
     },
 
     {
         "id": "118",
         "Rua": "MAURO BATISTA DE SOUZA",
         "Equipe": "BRANCA",
-        "Micro": "03",
+        "Micro": "03 - JARDIM SECKLER",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-090",
     },
 
     {
         "id": "119",
         "Rua": "ROSALINA BRISOLA ANTUNES",
         "Equipe": "BRANCA",
-        "Micro": "03",
+        "Micro": "03 - JARDIM SECKLER",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-088",
     },
 
     {
         "id": "120",
         "Rua": "SAO JOSE",
         "Equipe": "BRANCA",
-        "Micro": "03",
+        "Micro": "03 - JARDIM SECKLER",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-082",
     },
 
     {
         "id": "121",
         "Rua": "TERCIO PAES LEITE",
         "Equipe": "BRANCA",
-        "Micro": "03",
+        "Micro": "03 - JARDIM SECKLER",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-084",
     },
 
     {
         "id": "122",
         "Rua": "FLORIANO TORRES",
         "Equipe": "BRANCA",
-        "Micro": "03",
+        "Micro": "03 - JARDIM BORBA GATO",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-134",
     },
 
     {
         "id": "123",
         "Rua": "GUERINO BELON",
         "Equipe": "BRANCA",
-        "Micro": "03",
+        "Micro": "03 - JARDIM BORBA GATO",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-132",
     },
 
     {
         "id": "124",
         "Rua": "MONSENHOR SECKLER",
         "Equipe": "BRANCA",
-        "Micro": "03",
+        "Micro": "03 - JARDIM BORBA GATO",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-122",
     },
 
     {
         "id": "125",
         "Rua": "SAMUEL GOMES DE TOLEDO",
         "Equipe": "BRANCA",
-        "Micro": "03",
+        "Micro": "03 - JARDIM BORBA GATO",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-130",
     },
 
     {
         "id": "126",
         "Rua": "ALBERTO FERNANDES DE CAMARGO",
         "Equipe": "BRANCA",
-        "Micro": "04",
+        "Micro": "04 - JARDIM JULITA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-184",
     },
 
     {
         "id": "127",
         "Rua": "ANISIO FERRAZ SAMPAIO",
         "Equipe": "BRANCA",
-        "Micro": "04",
+        "Micro": "04 - JARDIM JULITA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-180",
     },
 
     {
@@ -1871,6 +1871,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1879,6 +1880,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1887,6 +1889,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1895,6 +1898,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1903,6 +1907,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1911,6 +1916,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1919,6 +1925,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1927,6 +1934,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1935,6 +1943,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1943,6 +1952,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1951,6 +1961,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1959,6 +1970,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1967,6 +1979,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1975,6 +1988,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
@@ -1983,6 +1997,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "01",
         "Posto": "BOM RETIRO",
+	"CEP": "",
     },
 
     {
