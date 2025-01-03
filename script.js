@@ -9,6 +9,7 @@ var data = [
         "Micro": "1, 2, 3 e 4 - VISTA ALEGRE",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -18,6 +19,7 @@ var data = [
         "Micro": "1 - VISTA ALEGRE",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -27,6 +29,7 @@ var data = [
         "Micro": "1 - VISTA ALEGRE",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -36,6 +39,7 @@ var data = [
         "Micro": "1 - VISTA ALEGRE",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -45,6 +49,7 @@ var data = [
         "Micro": "1 - VISTA ALEGRE",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -54,6 +59,7 @@ var data = [
         "Micro": "1 - VISTA ALEGRE",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -63,6 +69,7 @@ var data = [
         "Micro": "1 - VISTA ALEGRE",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -72,6 +79,7 @@ var data = [
         "Micro": "1 - SÃO CARLOS",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -81,6 +89,7 @@ var data = [
         "Micro": "1 - SÃO CARLOS",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -90,6 +99,7 @@ var data = [
         "Micro": "1 - SÃO CARLOS",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -99,6 +109,7 @@ var data = [
         "Micro": "1 - RECANTO MONÇÕES",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -108,6 +119,7 @@ var data = [
         "Micro": "1 - RECANTO MONÇÕES",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -117,6 +129,7 @@ var data = [
         "Micro": "1 - RECANTO MONÇÕES",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -126,6 +139,7 @@ var data = [
         "Micro": "1 - RES MADALENA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -135,6 +149,7 @@ var data = [
         "Micro": "RES MADALENA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -144,6 +159,7 @@ var data = [
         "Micro": "1 - RES MADALENA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -153,6 +169,7 @@ var data = [
         "Micro": "1 - RES MADALENA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -162,6 +179,7 @@ var data = [
         "Micro": "1 - RES MADALENA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -171,6 +189,7 @@ var data = [
         "Micro": "1 - OLIVIO BARBOSA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -180,6 +199,7 @@ var data = [
         "Micro": "1 - OLIVIO BARBOSA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -189,6 +209,7 @@ var data = [
         "Micro": "1 - OLIVIO BARBOSA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -198,6 +219,7 @@ var data = [
         "Micro": "1 - OLIVIO BARBOSA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -207,6 +229,7 @@ var data = [
         "Micro": "1 - OLIVIO BARBOSA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -216,6 +239,7 @@ var data = [
         "Micro": "1 - OLIVIO BARBOSA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -225,6 +249,7 @@ var data = [
         "Micro": "1 - OLIVIO BARBOSA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -234,6 +259,7 @@ var data = [
         "Micro": "1 - OLIVIO BARBOSA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -243,6 +269,7 @@ var data = [
         "Micro": "1 - OLIVIO BARBOSA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -252,6 +279,7 @@ var data = [
         "Micro": "1 - OLIVIO BARBOSA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -261,6 +289,7 @@ var data = [
         "Micro": "1 - OLIVIO BARBOSA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -270,6 +299,7 @@ var data = [
         "Micro": "1 - OLIVIO BARBOSA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -279,6 +309,7 @@ var data = [
         "Micro": "1 - OLIVIO BARBOSA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -288,6 +319,7 @@ var data = [
         "Micro": "1 - JARDIM PORTO CITY",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -297,6 +329,7 @@ var data = [
         "Micro": "1 - JARDIM PORTO CITY",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -306,6 +339,7 @@ var data = [
         "Micro": "1 - JARDIM PORTO CITY",
         "Posto": "VANTE",
         "ACS": "TIAGO",
+	"CEP": " ",
     },
 
     {
@@ -315,6 +349,7 @@ var data = [
         "Micro": "2",
         "Posto": "VANTE",
         "ACS": "KAUAN",
+	"CEP": " ",
     },
 
     {
@@ -324,6 +359,7 @@ var data = [
         "Micro": "2",
         "Posto": "VANTE",
         "ACS": "KAUAN",
+	"CEP": " ",
     },
 
    /* {
@@ -341,6 +377,7 @@ var data = [
         "Equipe": "AZUL",
         "Micro": "3",
         "Posto": "VANTE",
+	"CEP": " ",
     },
 
   /*  {
@@ -357,6 +394,7 @@ var data = [
         "Equipe": "AZUL",
         "Micro": "3",
         "Posto": "VANTE",
+	"CEP": " ",
     },
 
     {
@@ -365,6 +403,7 @@ var data = [
         "Equipe": "AZUL",
         "Micro": "4",
         "Posto": "VANTE",
+	"CEP": " ",
     },
 
 /*    {
@@ -381,6 +420,7 @@ var data = [
         "Equipe": "AZUL",
         "Micro": "4",
         "Posto": "VANTE",
+	"CEP": " ",
     },
 
     {
@@ -390,6 +430,7 @@ var data = [
         "Micro": "5 - ALTOS DO JEQUITIBA",
         "Posto": "VANTE",
         "ACS": "BRUNO",
+	"CEP": " ",
     },
 
     {
@@ -399,6 +440,7 @@ var data = [
         "Micro": "5 - ALTOS DO JEQUITIBA",
         "Posto": "VANTE",
         "ACS": "BRUNO",
+	"CEP": " ",
     },
 
     {
@@ -408,6 +450,7 @@ var data = [
         "Micro": "5 - ALTOS DO JEQUITIBA",
         "Posto": "VANTE",
         "ACS": "BRUNO",
+	"CEP": " ",
     },
 
     {
@@ -417,6 +460,7 @@ var data = [
         "Micro": "5 - ALTOS DO JEQUITIBA",
         "Posto": "VANTE",
         "ACS": "BRUNO",
+	"CEP": " ",
     },
 
     {
@@ -425,6 +469,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "1",
         "Posto": "VANTE",
+	"CEP": " ",
     },
 
     {
@@ -433,6 +478,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "1",
         "Posto": "VANTE",
+	"CEP": " ",
     },
 
     {
@@ -441,6 +487,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "1 e 2",
         "Posto": "VANTE",
+	"CEP": " ",
     },
 
     {
@@ -449,6 +496,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "2",
         "Posto": "VANTE",
+	"CEP": " ",
     },
 
     {
@@ -457,6 +505,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "2",
         "Posto": "VANTE",
+	"CEP": " ",
     },
 
  /*   {
@@ -473,6 +522,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "2",
         "Posto": "VANTE",
+	"CEP": " ",
     },
 
     {
@@ -481,6 +531,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "3",
         "Posto": "VANTE",
+	"CEP": " ",
     },
 
     {
@@ -489,6 +540,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "3",
         "Posto": "VANTE",
+	"CEP": " ",
     },
 
     {
@@ -497,6 +549,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "3",
         "Posto": "VANTE",
+	"CEP": " ",
     },
 
     {
@@ -505,6 +558,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "3",
         "Posto": "VANTE",
+	"CEP": " ",
     },
 
     {
@@ -513,6 +567,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "3",
         "Posto": "VANTE",
+	"CEP": " ",
     },
 
     {
@@ -521,6 +576,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "4",
         "Posto": "VANTE",
+	"CEP": " ",
     },
 
     {
