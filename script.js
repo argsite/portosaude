@@ -9,7 +9,7 @@ var data = [
         "Micro": "1, 2, 3 e 4 - VISTA ALEGRE",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-050",
     },
 
     {
@@ -19,7 +19,7 @@ var data = [
         "Micro": "1 - VISTA ALEGRE",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-056",
     },
 
     {
@@ -29,7 +29,7 @@ var data = [
         "Micro": "1 - VISTA ALEGRE",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-054",
     },
 
     {
@@ -39,7 +39,7 @@ var data = [
         "Micro": "1 - VISTA ALEGRE",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-060",
     },
 
     {
@@ -49,7 +49,7 @@ var data = [
         "Micro": "1 - VISTA ALEGRE",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-062",
     },
 
     {
@@ -59,7 +59,7 @@ var data = [
         "Micro": "1 - VISTA ALEGRE",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-058",
     },
 
     {
@@ -69,7 +69,7 @@ var data = [
         "Micro": "1 - VISTA ALEGRE",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-064",
     },
 
     {
@@ -79,7 +79,7 @@ var data = [
         "Micro": "1 - SÃO CARLOS",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-202",
     },
 
     {
@@ -89,7 +89,7 @@ var data = [
         "Micro": "1 - SÃO CARLOS",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-200",
     },
 
     {
@@ -99,7 +99,7 @@ var data = [
         "Micro": "1 - SÃO CARLOS",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "",
     },
 
     {
@@ -109,7 +109,7 @@ var data = [
         "Micro": "1 - RECANTO MONÇÕES",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-088",
     },
 
     {
@@ -119,7 +119,7 @@ var data = [
         "Micro": "1 - RECANTO MONÇÕES",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-080",
     },
 
     {
@@ -129,7 +129,7 @@ var data = [
         "Micro": "1 - RECANTO MONÇÕES",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-082",
     },
 
     {
@@ -139,7 +139,7 @@ var data = [
         "Micro": "1 - RES MADALENA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-076",
     },
 
     {
@@ -149,7 +149,7 @@ var data = [
         "Micro": "RES MADALENA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-072",
     },
 
     {
@@ -159,7 +159,7 @@ var data = [
         "Micro": "1 - RES MADALENA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-074",
     },
 
     {
@@ -169,7 +169,7 @@ var data = [
         "Micro": "1 - RES MADALENA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-071",
     },
 
     {
@@ -179,7 +179,7 @@ var data = [
         "Micro": "1 - RES MADALENA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-070",
     },
 
     {
@@ -189,7 +189,7 @@ var data = [
         "Micro": "1 - OLIVIO BARBOSA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-170",
     },
 
     {
@@ -199,7 +199,7 @@ var data = [
         "Micro": "1 - OLIVIO BARBOSA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-172",
     },
 
     {
@@ -209,7 +209,7 @@ var data = [
         "Micro": "1 - OLIVIO BARBOSA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-174",
     },
 
     {
@@ -219,7 +219,7 @@ var data = [
         "Micro": "1 - OLIVIO BARBOSA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-176",
     },
 
     {
@@ -229,7 +229,7 @@ var data = [
         "Micro": "1 - OLIVIO BARBOSA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-178",
     },
 
     {
@@ -239,7 +239,7 @@ var data = [
         "Micro": "1 - OLIVIO BARBOSA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-182",
     },
 
     {
@@ -249,7 +249,7 @@ var data = [
         "Micro": "1 - OLIVIO BARBOSA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-184",
     },
 
     {
@@ -259,7 +259,7 @@ var data = [
         "Micro": "1 - OLIVIO BARBOSA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-186",
     },
 
     {
@@ -269,7 +269,7 @@ var data = [
         "Micro": "1 - OLIVIO BARBOSA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-180",
     },
 
     {
@@ -279,7 +279,7 @@ var data = [
         "Micro": "1 - OLIVIO BARBOSA",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": " ",
+	"CEP": "18543-188",
     },
 
     {
