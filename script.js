@@ -4,7 +4,7 @@ var data = [
 
     {
         "id": "1",
-        "Rua": "SILVIO BRAND CORREIA - LADO ÍMPAR A PARTIR DE 726 - LADO PAR A PARTIR DE 861",
+        "Rua": "SILVIO BRAND CORREIA - LADO ÍMPAR A PARTIR DE 725 - LADO PAR A PARTIR DE 860",
         "Equipe": "AZUL",
         "Micro": "1, 2, 3 e 4 - VISTA ALEGRE",
         "Posto": "VANTE",
