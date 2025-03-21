@@ -6956,6 +6956,14 @@ var data = [
         "Posto": "VILA AMÉRICA",
     },
 
+	 {
+        "id": "827",
+        "Rua": "LEONILDE CADETE DA SILVA",
+        "Equipe": "BRANCA",
+        "Micro": "",
+        "Posto": "VILA AMÉRICA",
+    },
+
 
 
 
