@@ -7034,7 +7034,7 @@ function create_elment(item) {
     return `
     <tr>
         <td>${item.Rua}</td>
-        <td><span `+ getEquipe(item.Equipe) + `>•</span> ${item.Equipe}</td>                        
+        <td><span `+ getEquipe(item.Equipe) + `><i class="fa fa-circle" style="font-size:22px"></i></span> ${item.Equipe}</td>                        
         <td>${item.Micro}</td>
         <td>${item.Posto}</td>
     </tr>
