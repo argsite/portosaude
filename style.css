@@ -200,6 +200,10 @@ table.table .avatar {
   vertical-align: middle;
   line-height: 10px;
 }
+
+.fa {
+  padding-bottom:15px;
+}
 .prata {
   color: #d2d3d3;
 }
@@ -226,7 +230,9 @@ color: #FF8C00;
 }
 
 .arcoiris {
-color: #D8BFD8;
+background: -webkit-radial-gradient(#DC143C ,#A020F0, #00FA9A) ;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .roxa {
