@@ -4831,7 +4831,23 @@ var data = [
         "Micro": "",
         "Posto": "VILA AMÉRICA",
     },
-    
+
+	 {
+        "id": "",
+        "Rua": "FRANCISCO POLI",
+        "Equipe": "BRANCA",
+        "Micro": "",
+        "Posto": "VILA AMÉRICA",
+    },
+
+	{
+        "id": "",
+        "Rua": "RESIDENCIAL ALTOS DO AVECUIA",
+        "Equipe": "BRANCA",
+        "Micro": "",
+        "Posto": "VILA AMÉRICA",
+    },
+   
     {
         "id": "571",
         "Rua": "ALFREDO ROGADO",
