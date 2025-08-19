@@ -6155,7 +6155,7 @@ var data = [
                                   
     {
         "id": "734",
-        "Rua": "LUIZ CARLOS LISBOA (91 EM DIANTE)",
+        "Rua": "LUIZ CARLOS LISBOA (106 EM DIANTE)",
         "Equipe": "OURO",
         "Micro": "",
         "Posto": "POPULAR",
