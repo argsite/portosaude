@@ -4856,6 +4856,14 @@ var data = [
         "Micro": "",
         "Posto": "VILA AMÉRICA",
     },
+
+	{
+        "id": "",
+        "Rua": "RESIDENCIAL PORTAL DAS ARARAS",
+        "Equipe": "BRANCA",
+        "Micro": "GOV. MARIO COVAS,20",
+        "Posto": "VILA AMÉRICA",
+    },
    
     {
         "id": "571",
