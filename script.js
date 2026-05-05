@@ -1570,7 +1570,7 @@ var data = [
 
     {
         "id": "171",
-        "Rua": "SANTA CRUZ",
+        "Rua": "SANTA CRUZ (A PARTIR DE 940)",
         "Equipe": "BRANCA",
         "Micro": "06",
         "Posto": "VILA AMÉRICA",
@@ -4122,7 +4122,7 @@ var data = [
 
     {
         "id": "483",
-        "Rua": "SANTA CRUZ",
+        "Rua": "SANTA CRUZ (ATÉ 939)",
         "Equipe": "ROXA",
         "Micro": "05",
         "Posto": "PATUCCI",
