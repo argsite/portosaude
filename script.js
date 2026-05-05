@@ -1399,7 +1399,7 @@ var data = [
 
     {
         "id": "152",
-        "Rua": "IVETA GIBIM ALCALA",
+        "Rua": "IVETA GIBIM ALCALA (A PARTIR DE 133)",
         "Equipe": "BRANCA",
         "Micro": "05",
         "Posto": "VILA AMÉRICA",
@@ -4814,6 +4814,15 @@ var data = [
         "Equipe": "LARANJA (VILA ANGELICA)",
         "Micro": "07",
         "Posto": "PATUCCI",
+    },
+
+	{
+        "id": "152",
+        "Rua": "IVETA GIBIM ALCALA (ATÉ 132)",
+        "Equipe": "ROXO",
+        "Micro": "",
+        "Posto": "PATUCCI",
+	"CEP": "",
     },
 
     {
