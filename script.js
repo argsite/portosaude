@@ -7054,9 +7054,12 @@ function getEquipe(self) {
 	    case 'BRONZE':
 		    return 'class="Equipe bronze"';
 	        break;
-            case 'AZUL':
+        case 'AZUL':
             	    return 'class="Equipe azul"';
-            	break;
+           	break;
+		case 'VERDE':
+            	    return 'class="Equipe verde"';
+           	break;
         default:
             return 'class="Equipe text-success"';
             break;
