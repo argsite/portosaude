@@ -8,13 +8,26 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+/* Layout Geral */
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
 .table-wrapper {
-  background: #ffffff;
-  padding: 30px;
-  margin: 40px auto;
-  border-radius: 16px; /* Bordas mais arredondadas */
-  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.05), 0 8px 10px -6px rgba(0, 0, 0, 0.05);
-  border: 1px solid #e2e8f0;
+    background: #ffffff;
+    padding: 40px;
+    border-radius: 16px;
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.05);
+    border: 1px solid #e2e8f0;
+}
+
+/* Centralização do topo */
+.table-header-section, .search-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 35px;
 }
 
 .table-wrapper .btn {
@@ -147,36 +160,35 @@ body {
 }
 
 table.table {
-    border-collapse: separate;
-    border-spacing: 0 8px; /* Efeito de linhas flutuantes */
-    margin-top: -10px;
+    width: 100%;
+    border-spacing: 0;
+    margin-bottom: 20px;
 }
 
 table.table thead th {
-    border: none;
-    color: #64748b;
-    text-transform: uppercase;
-    font-size: 11px;
-    letter-spacing: 0.05em;
-    font-weight: 600;
+    background: #f1f5f9;
     padding: 15px;
+    color: #64748b;
+    text-align: left;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border-bottom: 2px solid #e2e8f0;
 }
 
 table.table tbody tr {
-    background-color: #fff;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.02);
-    transition: all 0.2s;
+    transition: background 0.2s;
 }
 
 table.table tbody tr:hover {
-    background-color: #f1f5f9 !important;
-    transform: translateY(-1px);
+    background-color: #f8fafc;
 }
 
 table.table td {
-    border: none !important;
-    padding: 16px !important;
+    padding: 18px 15px;
+    border-bottom: 1px solid #f1f5f9;
     color: #334155;
+    font-size: 14px;
 }
 
 table.table tr th:first-child {
@@ -235,12 +247,17 @@ table.table .avatar {
   line-height: 10px;
 }
 
-.status-badge {
-    padding: 4px 12px;
-    border-radius: 20px;
-    font-size: 12px;
-    font-weight: 500;
-    background: #f1f5f9;
+/* Rodapé */
+.table-footer {
+    margin-top: 25px;
+    padding-top: 20px;
+    border-top: 1px solid #f1f5f9;
+    color: #94a3b8;
+    font-size: 13px;
+}
+
+.hint-text b {
+    color: #475569;
 }
 
 .fa {
@@ -362,19 +379,21 @@ color: #25992C;
 }
 
 .group {
-  max-width: 100%;
-  margin: 20px 0;
+    position: relative;
+    width: 100%;
+    max-width: 550px;
 }
 
 .input {
-  width: 100%;
-  height: 54px;
-  background-color: #ffffff;
-  border: 1.5px solid #e2e8f0;
-  border-radius: 12px;
-  font-size: 16px;
-  padding-left: 3rem;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+    width: 100%;
+    height: 54px;
+    background-color: #f8fafc; /* Um cinza bem leve para o campo */
+    border: 1.5px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 0 20px 0 50px;
+    font-size: 16px;
+    box-sizing: border-box;
+    transition: all 0.2s ease-in-out;
 }
 
 .input::placeholder {
@@ -389,6 +408,11 @@ color: #25992C;
 	   }
 
 .icon {
-  fill: #94a3b8;
-  left: 1.2rem;
+    position: absolute;
+    left: 18px;
+    top: 50%;
+    transform: translateY(-50%);
+    fill: #94a3b8;
 }
+
+
