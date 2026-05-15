@@ -381,11 +381,12 @@ color: #25992C;
   color: #9e9ea7;
 }
 
-.input:focus {
-  border-color: #3b82f6; /* Azul moderno */
-  box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.1);
-  background-color: #fff;
-}
+	   .input:focus, input:hover {
+		outline: none;
+		border-color: #f2f2f2;
+		background-color: #fff;
+		box-shadow: 0 0 0 4px rgb(247, 247, 247 / 10%);
+	   }
 
 .icon {
   fill: #94a3b8;
