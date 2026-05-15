@@ -7009,7 +7009,7 @@ var data = [
 
 state.data = data;
 state.customData = data;
-var tbody = document.querySelector("tbody");
+var tbody = document.getElementById("tbody");
 state.valueSatus = "";
 state.valueRua = "";
 state.numberDisplay = 0;
