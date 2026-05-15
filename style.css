@@ -63,7 +63,7 @@ body {
 }
 
 .logo img {
-  width: 150px; /* Logo um pouco maior */
+  width: 100px; 
   transition: transform 0.3s ease;
 }
 
