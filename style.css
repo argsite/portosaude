@@ -1,3 +1,81 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+/* Container centralizado */
+.container {
+    width: 100%;
+    max-width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.container-fluid {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+/* Sistema de Grid com Flexbox */
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.col-sm-4, .col-sm-8 {
+    padding-right: 15px;
+    padding-left: 15px;
+    width: 100%;
+}
+
+/* Em telas maiores que 576px (Comportamento do sm do Bootstrap) */
+@media (min-width: 576px) {
+    .col-sm-4 { flex: 0 0 33.333333%; max-width: 33.333333%; }
+    .col-sm-8 { flex: 0 0 66.666667%; max-width: 66.666667%; }
+}
+
+/* Estilização Base da Tabela */
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1rem;
+    background-color: transparent;
+}
+
+.table th, .table td {
+    padding: 0.75rem;
+    vertical-align: middle;
+    border-top: 1px solid #dee2e6;
+    text-align: left;
+    font-size: 16px;	
+}
+
+.table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+    font-weight: bold;
+    color: #333;
+}
+
+/* Efeito Zebra (Striped) */
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(0, 0, 0, 0.03);
+}
+
+/* Efeito Hover na Tabela */
+.table-hover tbody tr:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+/* Utilitários de texto que estavam no HTML */
+.text-warning { color: #ffc107; }
+.text-success { color: #28a745; }
+
 body {
   color: #566787;
   background: #f5f5f5;
@@ -8,7 +86,7 @@ body {
   background: #fff;
   padding: 20px 25px;
   margin: 10px auto;
-  border-radius: 3px;
+  border-radius: 10px;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
 }
 .table-wrapper .btn {
@@ -61,7 +139,7 @@ body {
 }
 
 .logo img {
-  width: 100px;
+  width: 120px;
   margin: 0 auto;
   display: block;
   padding: 10px;
@@ -92,6 +170,17 @@ body {
   border-color: #e5e5e5;
   box-shadow: none;
   padding-left: 40px;
+}
+
+/* Ajustes finos no campo de pesquisa */
+.table-filter input#search {
+    width: 300px;
+    height: 44px;
+    border-radius: 20px;
+    border: 1px solid #e5e5e5;
+    padding-left: 40px; /* Espaço para o texto não ficar por cima do ícone */
+    margin: 0; /* Remove margens que podem estar descentralizando o elemento */
+    outline: none;
 }
 
 .table-filter input::placeholder {
@@ -205,46 +294,70 @@ table.table .avatar {
   padding-bottom:15px;
 }
 .prata {
-  color: #d2d3d3;
+  color: #d2d3d3 !important;
 }
 .ouro {
-  color: #ffc125;
+  color: #ffc125 !important;
 }
 .amarela {
-  color: #ffff00;
+  color: #ffff00 !important;
 }
 .rosa {
-  color: #ff1493;
+  color: #ff1493 !important;
 }
 
 .azul {
-  color: #1e90ff;
+  color: #1e90ff !important;
+}
+
+.verde {
+  color: #80BD51 !important;
 }
 
 .vermelha {
-color: #DC143C;
+color: #DC143C !important;
 }
 
 .laranja {
-color: #FF8C00;
+color: #FF8C00 !important;
 }
 
 .arcoiris {
-background: -webkit-radial-gradient(#DC143C ,#A020F0, #00FA9A) ;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+background: linear-gradient(135deg, #FF0000, #FF7F00, #FFFF00, #00FF00, #0000FF, #4B0082, #9400D3) !important;
+border-radius: 50% !important;
+width: 20px !important;
+height: 20px !important;
+display: inline-block !important;
+color: transparent !important;
 }
 
+
 .roxa {
-color: #9932CC;
+color: #9932CC !important;
 }
 
 .branca {
-color: #F5F5F5;
+color: #F5F5F5 !important;
 }
 
 .bronze {
-color: #A0522D;		
+color: #A0522D !important;		
+}
+
+.status {
+    font-size: 30px;
+    margin: 2px 5px 0 0;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 10px;
+}
+
+span.Equipe {
+    font-size: 30px;
+    margin: 2px 5px 0 0;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 10px;
 }
 
 .pagination {
@@ -313,11 +426,31 @@ color: #A0522D;
 }
 
 .group {
-  display: flex;
-  line-height: 78px;
-  align-items: center;
-  position: relative;
-  max-width: 290px;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+/* Posicionamento do ícone de lupa */
+.group .icon {
+    position: absolute;
+    left: 15px;
+    width: 20px; /* Trava a largura da lupa */
+    height: 20px; /* Trava a altura da lupa */
+    fill: #999; 
+    pointer-events: none; 
+}
+/* Força o espaçamento interno do campo de pesquisa */
+.group input {
+    width: 300px;
+    height: 44px;
+    border-radius: 20px;
+    border: 1px solid #e5e5e5;
+    /* O !important impede que qualquer outra regra do código cancele este espaçamento: */
+    padding-left: 45px !important; 
+    padding-right: 15px;
+    margin: 0; 
+    outline: none;
 }
 
 .input {
