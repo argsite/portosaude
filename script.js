@@ -4819,7 +4819,7 @@ var data = [
 	{
         "id": "152",
         "Rua": "IVETA GIBIM ALCALA (ATÉ 132)",
-        "Equipe": "ROXO",
+        "Equipe": "ROXA",
         "Micro": "",
         "Posto": "PATUCCI",
 	"CEP": "",
