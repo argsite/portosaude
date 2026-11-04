@@ -1255,38 +1255,38 @@ var data = [
 
     {
         "id": "136",
-        "Rua": "LÍDIA MARIA POTEL",
+        "Rua": "LIDIA MARIA POTEL",
         "Equipe": "BRANCA",
-        "Micro": "04",
+        "Micro": "04 - RES RAFAEL ALCALA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-238",
     },
 
     {
         "id": "137",
         "Rua": "MAESTRO BENTO VALINI",
         "Equipe": "BRANCA",
-        "Micro": "04",
+        "Micro": "04 - JARDIM JULITA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-176",
     },
 
     {
         "id": "138",
         "Rua": "MANOEL GONÇALVES SANTANA",
         "Equipe": "BRANCA",
-        "Micro": "04",
+        "Micro": "04 - JARDIM JULITA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-182",
     },
 
     {
         "id": "139",
         "Rua": "MARIA DE LOURDES ABIBE ARANHA",
         "Equipe": "BRANCA",
-        "Micro": "04",
+        "Micro": "04 - JARDIM JULITA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-172",
     },
 
     {
