@@ -1320,18 +1320,18 @@ var data = [
         "id": "143",
         "Rua": "VALDEMAR DE ALMEIDA",
         "Equipe": "BRANCA",
-        "Micro": "04",
+        "Micro": "04 - RES RAFAEL ALCALA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-218",
     },
 
     {
         "id": "144",
         "Rua": "AGOSTINHO ALCALA",
         "Equipe": "BRANCA",
-        "Micro": "05",
+        "Micro": "05 - VILA ALCALA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-018",
     },
 
     {
@@ -1340,7 +1340,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "05",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-050",
     },
 
     {
