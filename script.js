@@ -1259,7 +1259,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "04 - RES RAFAEL ALCALA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "18546-238",
+		"CEP": "18546-238",
     },
 
     {
@@ -1268,7 +1268,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "04 - JARDIM JULITA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "18546-176",
+		"CEP": "18546-176",
     },
 
     {
@@ -1277,7 +1277,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "04 - JARDIM JULITA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "18546-182",
+		"CEP": "18546-182",
     },
 
     {
@@ -1286,34 +1286,34 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "04 - JARDIM JULITA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "18546-172",
+		"CEP": "18546-172",
     },
 
     {
         "id": "140",
         "Rua": "MARIA VITORIA DELBOUX",
         "Equipe": "BRANCA",
-        "Micro": "04",
+        "Micro": "04 - RES RAFAEL ALCALA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+		"CEP": "18546-210",
     },
 
     {
         "id": "141",
         "Rua": "ORLANDO DALSÓGLIO",
         "Equipe": "BRANCA",
-        "Micro": "04",
+        "Micro": "04 - RES RAFAEL ALCALA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+		"CEP": "18546-222",
     },
 
     {
         "id": "142",
         "Rua": "ROQUE VIEIRA DA CRIZ",
         "Equipe": "BRANCA",
-        "Micro": "04",
+        "Micro": "04 - JARDIM JULITA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-166",
     },
 
     {
@@ -2006,6 +2006,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2014,6 +2015,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2022,6 +2024,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2030,6 +2033,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2038,6 +2042,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2046,6 +2051,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2054,6 +2060,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2062,6 +2069,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2070,6 +2078,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2078,6 +2087,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2086,6 +2096,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2094,6 +2105,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2102,6 +2114,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2110,6 +2123,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2118,6 +2132,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2126,6 +2141,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2134,6 +2150,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2142,6 +2159,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2150,6 +2168,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2158,6 +2177,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2166,6 +2186,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2174,6 +2195,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2182,6 +2204,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2190,6 +2213,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2198,6 +2222,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2206,6 +2231,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2214,6 +2240,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2222,6 +2249,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2230,6 +2258,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2238,6 +2267,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2246,6 +2276,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2254,6 +2285,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2262,6 +2294,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2270,6 +2303,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2278,6 +2312,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2286,6 +2321,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2294,6 +2330,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2302,6 +2339,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2310,6 +2348,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2318,6 +2357,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2326,6 +2366,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2334,6 +2375,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2342,6 +2384,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "02",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2350,6 +2393,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "03",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2358,6 +2402,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "03",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2374,6 +2419,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "03 - GLEBA 2",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2382,6 +2428,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "03 - GLEBA 2",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2390,6 +2437,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "03 - GLEBA 2",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2398,6 +2446,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "03 - GLEBA 2",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2406,6 +2455,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "03 - GLEBA 2",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2414,6 +2464,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "03 - GLEBA 2",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2422,6 +2473,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "03 - GLEBA 2",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2430,6 +2482,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "03 - GLEBA 2",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2438,6 +2491,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "03 - GLEBA 2",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
@@ -2446,6 +2500,7 @@ var data = [
         "Equipe": "ARCO-IRIS",
         "Micro": "03 - GLEBA 2",
         "Posto": "BOM RETIRO",
+		"CEP": "",
     },
 
     {
