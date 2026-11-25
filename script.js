@@ -4633,491 +4633,438 @@ var data = [
         "CEP": "18540-035"
     },
 
-	{
+{
         "id": "515",
         "Rua": "FRANCISCO GOMES TOLEDO",
         "Equipe": "LARANJA",
         "Micro": "01",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-206"
     },
-
     {
         "id": "516",
         "Rua": "RUTH PEREIRA TUANI",
         "Equipe": "LARANJA",
         "Micro": "01",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-204"
     },
-
     {
         "id": "517",
         "Rua": "ASSALIM ZAURO",
         "Equipe": "LARANJA",
         "Micro": "01",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-200"
     },
-
     {
         "id": "518",
         "Rua": "ANGELINA DE JESUS DIAS DE TOLEDO",
         "Equipe": "LARANJA",
         "Micro": "01",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-202"
     },
-
     {
         "id": "519",
         "Rua": "ANTONIO GONZAGA",
         "Equipe": "LARANJA",
         "Micro": "01",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-212"
     },
-
     {
         "id": "520",
         "Rua": "LAZARO DE CAMPOS",
         "Equipe": "LARANJA",
         "Micro": "01",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-214"
     },
-
     {
         "id": "521",
         "Rua": "MARIA DA GLORIA VIEIRA",
         "Equipe": "LARANJA",
         "Micro": "01",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-210"
     },
-
     {
         "id": "522",
         "Rua": "JARBAS SEABRA LEAL",
         "Equipe": "LARANJA",
         "Micro": "01",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-208"
     },
-
     {
         "id": "523",
         "Rua": "HOMERO AMBRÓSIO",
         "Equipe": "LARANJA",
         "Micro": "01",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-216"
     },
-
     {
         "id": "524",
         "Rua": "AVENIDA LICIO MARCONDES DO AMARAL",
         "Equipe": "LARANJA",
         "Micro": "02",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-180"
     },
-
     {
         "id": "525",
         "Rua": "CARLOS GOMES",
         "Equipe": "LARANJA",
         "Micro": "02",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-196"
     },
-
     {
         "id": "526",
         "Rua": "BOA VISTA",
         "Equipe": "LARANJA",
         "Micro": "02",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-194"
     },
-
     {
         "id": "527",
         "Rua": "SANTA INES",
         "Equipe": "LARANJA",
         "Micro": "02",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-192"
     },
-
     {
         "id": "528",
         "Rua": "HENRIQUE DIAS",
         "Equipe": "LARANJA",
         "Micro": "02",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-190"
     },
-
     {
         "id": "529",
         "Rua": "VIOLETA DE ARRUDA MELO BRUSCO",
         "Equipe": "LARANJA",
         "Micro": "03",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-188"
     },
-
     {
         "id": "530",
         "Rua": "EMILIO COLI",
         "Equipe": "LARANJA",
         "Micro": "03",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-198"
     },
-
     {
         "id": "531",
         "Rua": "PRIMO BENVEGNU",
         "Equipe": "LARANJA",
         "Micro": "03",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-186"
     },
-
     {
         "id": "532",
         "Rua": "PADRE BENTO",
         "Equipe": "LARANJA",
         "Micro": "03",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-184"
     },
-
     {
         "id": "533",
         "Rua": "ANTENOR FERRAZ DE OLIVEIRA",
         "Equipe": "LARANJA",
         "Micro": "03",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-178"
     },
-
     {
         "id": "534",
         "Rua": "NOVE DE JULHO",
         "Equipe": "LARANJA",
         "Micro": "03",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-176"
     },
-
     {
         "id": "535",
         "Rua": "DOMINGOS JORGE VELHO",
         "Equipe": "LARANJA",
         "Micro": "03",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-172"
     },
-
     {
         "id": "536",
         "Rua": "BARTOLOMEU BUENO",
         "Equipe": "LARANJA",
         "Micro": "03",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-182"
     },
-
     {
         "id": "537",
         "Rua": "ANTONIO RAPOSO TAVARES",
         "Equipe": "LARANJA",
         "Micro": "03",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-174"
     },
-
     {
         "id": "538",
         "Rua": "FERNAO DIAS - ATÉ 560",
         "Equipe": "LARANJA",
         "Micro": "04",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-168"
     },
-
     {
         "id": "539",
         "Rua": "LOURENÇO TAQUES",
         "Equipe": "LARANJA",
         "Micro": "04",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-166"
     },
-
     {
         "id": "540",
         "Rua": "PASCOAL MOREIRA",
         "Equipe": "LARANJA",
         "Micro": "04",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-164"
     },
-
     {
         "id": "541",
         "Rua": "BORBA GATO",
         "Equipe": "LARANJA",
         "Micro": "04",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-160"
     },
-
     {
         "id": "542",
         "Rua": "BARTOLOMEU BUENO",
         "Equipe": "LARANJA",
         "Micro": "04",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-162"
     },
-
     {
         "id": "543",
         "Rua": "ABNER DE CAMARGO",
         "Equipe": "LARANJA",
         "Micro": "04",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-148"
     },
-
     {
         "id": "544",
         "Rua": "JOAO DE ALMEIDA",
         "Equipe": "LARANJA",
         "Micro": "04",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-150"
     },
-
     {
         "id": "545",
         "Rua": "LURDES XAVIER MARTELINI",
         "Equipe": "LARANJA",
         "Micro": "04",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-152"
     },
-
     {
         "id": "546",
         "Rua": "FERNANDO STECCA",
         "Equipe": "LARANJA",
         "Micro": "05",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-138"
     },
-
     {
         "id": "547",
         "Rua": "FELIPE FELIX",
         "Equipe": "LARANJA",
         "Micro": "05",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-136"
     },
-
     {
         "id": "548",
         "Rua": "MARCELINO ALVES",
         "Equipe": "LARANJA",
         "Micro": "05",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-134"
     },
-
     {
         "id": "549",
         "Rua": "THOMAZ CORTEZ",
         "Equipe": "LARANJA",
         "Micro": "05",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-132"
     },
-
     {
         "id": "550",
         "Rua": "OLYNTHO BAPTISTELA",
         "Equipe": "LARANJA",
         "Micro": "05",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-098"
     },
-
     {
         "id": "551",
         "Rua": "ANTONIO CARLOS MARCOLINO POLAZ",
         "Equipe": "LARANJA",
         "Micro": "06",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-086"
     },
-
     {
         "id": "552",
         "Rua": "FREDERICO PALMIERI",
         "Equipe": "LARANJA",
         "Micro": "06",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-096"
     },
-
     {
         "id": "553",
         "Rua": "BRAXISTER DE CAMARGO",
         "Equipe": "LARANJA",
         "Micro": "06",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18540-462"
     },
-
     {
         "id": "554",
         "Rua": "JOEL BRIENZA",
         "Equipe": "LARANJA",
         "Micro": "06",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-094"
     },
-
     {
         "id": "555",
         "Rua": "ALFEU TROMBINI",
         "Equipe": "LARANJA",
         "Micro": "06",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-088"
     },
-
     {
         "id": "556",
         "Rua": "EVAIR DE OLIVEIRA",
         "Equipe": "LARANJA",
         "Micro": "06",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-084"
     },
-
     {
         "id": "557",
         "Rua": "ANTONIO BONINI",
         "Equipe": "LARANJA",
         "Micro": "06",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-082"
     },
-
     {
         "id": "558",
         "Rua": "PEDRO MIRANDA",
         "Equipe": "LARANJA",
         "Micro": "06",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-146"
     },
-
     {
         "id": "559",
         "Rua": "OLYMPIO FRANCISCO DE MORAES",
         "Equipe": "LARANJA",
         "Micro": "06",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-144"
     },
-
     {
         "id": "560",
         "Rua": "OTACILIO RODRIGUES",
         "Equipe": "LARANJA",
         "Micro": "06",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18542-474"
     },
-
     {
         "id": "561",
         "Rua": "MARIA JOSE SOARES",
         "Equipe": "LARANJA",
         "Micro": "07",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-064"
     },
-
     {
         "id": "562",
         "Rua": "LAERTE CARLOS",
         "Equipe": "LARANJA",
         "Micro": "07",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-070"
     },
-
     {
         "id": "563",
         "Rua": "PEDRO PAULO GHIRALDI",
         "Equipe": "LARANJA",
         "Micro": "07",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-072"
     },
-
     {
         "id": "564",
-        "Rua": "BENEDITO ANTUNES SOARES",
+        "Rua": "BENEDICTO / BENEDITO ANTUNES SOARES",
         "Equipe": "LARANJA",
         "Micro": "07",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-068"
     },
-
     {
         "id": "565",
         "Rua": "VALDIR DE LARA",
         "Equipe": "LARANJA",
         "Micro": "07",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-066"
     },
-
     {
         "id": "566",
         "Rua": "IBRAIM PAES DA MOTA",
         "Equipe": "LARANJA",
         "Micro": "07",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-056"
     },
-
     {
         "id": "567",
         "Rua": "MITRE FIUZA AYRES",
         "Equipe": "LARANJA",
         "Micro": "07",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
+        "CEP": "18547-050"
     },
-
     {
         "id": "568",
         "Rua": "CLOTILDE RUSSO AYRES",
         "Equipe": "LARANJA",
         "Micro": "07",
         "Posto": "VILA ANGELICA",
-        "CEP": "",
-    },
+        "CEP": "18547-052"
+    }
 
 	{
         "id": "152",
