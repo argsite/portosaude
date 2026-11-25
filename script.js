@@ -1662,36 +1662,36 @@ var data = [
         "id": "177",
         "Rua": "ROSAS",
         "Equipe": "BRANCA",
-        "Micro": "06",
+        "Micro": "06 - JARDIM BELA VISTA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+		"CEP": "18547-214",
     },
 
     {
         "id": "178",
         "Rua": "TULIPAS",
         "Equipe": "BRANCA",
-        "Micro": "06",
+        "Micro": "06 - JARDIM BELA VISTA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+		"CEP": "18547-212",
     },
 
     {
         "id": "178",
         "Rua": "DJALMA DE OLIVEIRA",
         "Equipe": "BRANCA",
-        "Micro": "04",
+        "Micro": "04 - PORTAL VALE DO SOL",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+		"CEP": "18546-202",
     },
 
     {
         "id": "179",
         "Rua": "VIOLETAS",
         "Equipe": "BRANCA",
-        "Micro": "06",
+        "Micro": "06 - JARDIM BELA VISTA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+		"CEP": "18547-210",
     },
 
     {
