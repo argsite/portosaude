@@ -6913,7 +6913,7 @@ var data = [
         "Micro": "1 - DAIANE",
         "CEP": "18542-502",
         "Posto": "POPULAR"
-    }
+    },
 
 	{
         "id": "152",
