@@ -6915,709 +6915,637 @@ var data = [
         "Posto": "POPULAR"
     },
                             
-    {
+{
         "id": "735",
         "Rua": "ANTONIO ARRAVAL FILHO",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-222"
     },
-                                  
     {
         "id": "736",
         "Rua": "LUIZ DESPONTIM",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": ""
     },
-
-                                  
     {
         "id": "737",
         "Rua": "JOSE MAURINO FILHO",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-224"
     },
-
-                                  
     {
         "id": "738",
         "Rua": "RICARDO VANDEVELO",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": ""
     },
-
-                                  
     {
         "id": "739",
         "Rua": "AQUILES JORGE STEINER",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-232"
     },
-
-                                  
     {
         "id": "740",
         "Rua": "JOAO VERONEZE",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": ""
     },
-
-                                  
     {
         "id": "741",
         "Rua": "ABNER HERACLITO DE CAMARGO",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-360"
     },
-
-                                  
     {
         "id": "742",
         "Rua": "SAO VICENTE",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": ""
     },
-
-                                  
     {
         "id": "743",
         "Rua": "ANTONIO BRIENZA",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-352"
     },
-
-                                  
     {
         "id": "744",
         "Rua": "IGNACIO CHAGAS",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": ""
     },
-
-                                  
     {
         "id": "745",
         "Rua": "OLIVIO BARBOSA (JD. MORUMBI)",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": ""
     },
-
-                                  
     {
         "id": "746",
         "Rua": "JOSE FERNANDES",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-338"
     },
-
-                                  
     {
         "id": "747",
         "Rua": "JOAO BATISTA SCARANCE",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-342"
     },
-
-                                  
     {
         "id": "748",
         "Rua": "PROFESSORA MARIA APARECIDA FERNANDES LEITE",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-340"
     },
-
-                                  
     {
         "id": "749",
         "Rua": "ANTONIO PIRES DE ALMEIDA (JARDIM MORUMBI)",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-344"
     },
-
-                                  
     {
         "id": "750",
         "Rua": "ANITA GARIBALDI (ATÉ OS FUNDOS DA RODRIAL COM R. JUSTINO COMIDE)",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-358"
     },
-
-                                  
     {
         "id": "751",
         "Rua": "AVENIDA GETULIO VARGAS - (JARDIM MORUMBI)",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-354"
     },
-
-                                  
     {
         "id": "752",
         "Rua": "BENEDITO PINTO DO AMARAL",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-372"
     },
-
-                                  
     {
         "id": "753",
         "Rua": "ARMANDO DIAS",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": ""
     },
-
-                                  
     {
         "id": "754",
         "Rua": "EMILIA ANA ANTONIO",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-362"
     },
-
-                                  
     {
         "id": "755",
         "Rua": "BASIL FERNANDO LEROY",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-364"
     },
-                                  
     {
         "id": "756",
         "Rua": "SANTA ROSA (BAMBU)",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-366"
     },
-
-                                  
     {
         "id": "757",
         "Rua": "MAESTRO BENEDITO ROGADO",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-368"
     },
-
-                                  
     {
         "id": "758",
         "Rua": "FREDERICO BRANDI (DIVISA COM JD MORUMBI)",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-370"
     },
-
-                                  
     {
         "id": "759",
         "Rua": "TRAVESSA FREDERICO BRANDI",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": ""
     },
-
-                                  
     {
         "id": "760",
         "Rua": "AVENIDA GETULIO VARGAS (BAMBU)",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-354"
     },
-
-                                  
     {
         "id": "761",
         "Rua": "CESARIO LEROY",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-378"
     },
-
-                                  
     {
         "id": "762",
         "Rua": "LOURDES COSTA DE JESUS",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-374"
     },
-
-                                  
     {
         "id": "763",
         "Rua": "ALCIDES COSTA ARANHA",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-376"
     },
-
-                                  
     {
         "id": "764",
         "Rua": "FRANCISCO OLIVEIRA LIMA",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": ""
     },
-
-                                  
     {
         "id": "765",
         "Rua": "JOAO ARANTES NETO",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": ""
     },
-
-                                  
     {
         "id": "766",
         "Rua": "ARISTIDES VALENTIM TORRES",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": ""
     },
-
-                                  
     {
         "id": "767",
         "Rua": "WANDA PREVITALI THOME",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": ""
     },
-
-                                  
     {
         "id": "768",
         "Rua": "ANTONIO PIRES DE ALMEIDA (JARDIM BELA FONTE)",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-350"
     },
-
-                                  
     {
         "id": "769",
         "Rua": "PEDRO FERRAZ DA SILVA",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": ""
     },
-
-                                  
     {
         "id": "770",
         "Rua": "ANTONIO PIRES DE ALMEIDA (JARDIM SÃO PEDRO)",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-450"
     },
-
-                                  
     {
         "id": "771",
         "Rua": "CONSELHEIRO MANOEL DIAS DE TOLEDO (CIDADE JARDIM)",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-492"
     },
-
-                                  
     {
         "id": "772",
         "Rua": "LAIS SOLANGE FERRAZ",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-490"
     },
-
-                                  
     {
         "id": "773",
         "Rua": "SOLANGE DE FATIMA ZILI",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-532"
     },
-
-                                  
     {
         "id": "774",
         "Rua": "SEBASTIAO XAVIER ANTUNES",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-486"
     },
-
-                                  
     {
         "id": "775",
         "Rua": "LUIS DE BARROS PINHEIRO",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-484"
     },
-                                  
     {
         "id": "776",
         "Rua": "ARMANDO HONORA (ATÉ ANTONIO PIRES DE ALMEIDA - LIMITE)",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-482"
     },
-
-                                  
     {
         "id": "777",
         "Rua": "ANTONIO PIRES DE ALMEIDA (CIDADE JARDIM)",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-460"
     },
-
-                                  
     {
         "id": "778",
         "Rua": "JOAO MENEGON (SEGATEX MADEIRAS)",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-480"
     },
-
-                                  
     {
         "id": "779",
         "Rua": "OTAVIO DE MORAES (ATÉ BRAXISTER DE CAMARGO - RUA SEMÁFORO COM A SIDNYL)",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-478"
     },
-
-                                  
     {
         "id": "780",
         "Rua": "GENTIL DE ARRUDA",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-464"
     },
-
-                                  
     {
         "id": "781",
         "Rua": "ANTONIO JACOMASSI",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-466"
     },
-
-                                  
     {
         "id": "782",
         "Rua": "BELARMINO FELIX",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-468"
     },
-
-                                  
     {
         "id": "783",
         "Rua": "JULIO ALVES DE OLIVEIRA",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-470"
     },
-
-                                  
     {
         "id": "784",
         "Rua": "ANTONIO PIRES DE ALMEIDA (DO OUTRO LADO DA SIDNYL)",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-446"
     },
-
-                                  
     {
         "id": "785",
         "Rua": "NOEL DE CAMARGO",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-472"
     },
-
-                                  
     {
         "id": "786",
         "Rua": "PAULINO DE BERNARDES",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-474"
     },
-
-                                  
     {
         "id": "787",
         "Rua": "JOAO GONÇALVES DE CAMARGO",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": ""
     },
-
-                                  
     {
         "id": "788",
         "Rua": "RUA ANGELO DIANA (JARDIM PORTO FELIZ - PRAÇA ESCOLA BAMBU ATÉ EDIF AMÉRICA Nº 891)",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-548"
     },
-
-                                  
     {
         "id": "789",
         "Rua": "JOAO BATISTA FERRAZ (JARDIM PORTO FELIZ)",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-546"
     },
-
-                                  
     {
         "id": "790",
         "Rua": "RENATO RODOVALHO DE OLIVEIRA",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-544"
     },
-
-                                  
     {
         "id": "791",
         "Rua": "FRANCISCO ROCHA",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-540"
     },
-
-                                  
     {
         "id": "792",
         "Rua": "PROFESSOR JEFFERSON SOARES DE SOUZA",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-542"
     },
-
-                                  
     {
         "id": "793",
         "Rua": "SANTA COAN MORO",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": ""
     },
-
-                                  
     {
         "id": "794",
         "Rua": "ALBINO VALINI",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-536"
     },
-
-                                  
     {
         "id": "795",
         "Rua": "CONSELHEIRO MANOEL DIAS DE TOLEDO (ATÉ ALBINO VALINI - PAR E IMPAR)",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-530"
     },
-
-                                  
     {
         "id": "796",
         "Rua": "AVENIDA GETULIO VARGAS (JARDIM BRASIL - SERVIDÃO DA CESARIO LEROY ATÉ CEMEX)",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-380"
     },
-
-                                  
     {
         "id": "797",
         "Rua": "BAHIA (JARDIM BRASIL)",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": ""
     },
-
-                                  
     {
         "id": "798",
         "Rua": "MINAS GERAIS (JARDIM BRASIL)",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-558"
     },
-
-                                  
     {
         "id": "799",
         "Rua": "HERMINIO LEROY",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-560"
     },
-
-                                  
     {
         "id": "800",
         "Rua": "RIO GRANDE DO SUL (CORTA A RUA MINAS GERAIS)",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-556"
     },
-
-                                  
     {
         "id": "801",
         "Rua": "ANTONIO SOARES DE SOUZA",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-566"
     },
-
-                                  
     {
         "id": "802",
         "Rua": "RUA ORTOFEN",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-568"
     },
-
-                                  
     {
         "id": "803",
         "Rua": "MARANHÃO",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": ""
     },
-
-                                  
     {
         "id": "804",
         "Rua": "AMAZONAS",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": ""
     },
-
-                                  
     {
         "id": "805",
         "Rua": "PIAUI",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-574"
     },
-                                  
     {
         "id": "806",
         "Rua": "RIO GRANDE DO NORTE",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-576"
     },
-
-                                  
     {
         "id": "807",
         "Rua": "RIO GRANDE DO SUL (JARDIM BRASIL I)",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18540-556"
     },
-
-                                  
     {
         "id": "808",
         "Rua": "AVENIDA TEXTIL GABRIEL (STEMMANN - ANTES DO RIACHO DA BAIXADA)",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": "18549-000"
     },
-
-                                  
     {
         "id": "809",
         "Rua": "CONDOMINIOS PORTAL I E II",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": ""
     },
-
-                                  
     {
         "id": "810",
         "Rua": "PORTAL VILLE FALMBOYANT",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": ""
     },
-
-                                  
     {
         "id": "811",
         "Rua": "TERRAS DE SAN RAFAEL",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": ""
     },
-
-                                  
     {
         "id": "812",
         "Rua": "PALMITAL (CHÁCARAS PRÓXIMAS DA PORTO SA)",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": ""
     },
-                                  
     {
         "id": "813",
         "Rua": "PORTO FELIZ SA - FUNDOS",
         "Equipe": "BRONZE",
         "Micro": "",
         "Posto": "BAMBU",
+        "CEP": ""
     },
                               
     {
