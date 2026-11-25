@@ -6914,56 +6914,7 @@ var data = [
         "CEP": "18542-502",
         "Posto": "POPULAR"
     },
-
-	{
-        "id": "152",
-        "Rua": "IVETA GIBIM ALCALA (ATÉ 132)",
-        "Equipe": "ROXA",
-        "Micro": "",
-        "Posto": "PATUCCI",
-	"CEP": "",
-    },
-
-    {
-        "id": "569",
-        "Rua": "VOLTA DO POÇO",
-        "Equipe": "BRANCA",
-        "Micro": "",
-        "Posto": "VILA AMÉRICA",
-    },              
-    
-    {
-        "id": "570",
-        "Rua": "TERRAS DO PORTO",
-        "Equipe": "BRANCA",
-        "Micro": "",
-        "Posto": "VILA AMÉRICA",
-    },
-
-	 {
-        "id": "",
-        "Rua": "FRANCISCO POLI",
-        "Equipe": "BRANCA",
-        "Micro": "",
-        "Posto": "VILA AMÉRICA",
-    },
-
-	{
-        "id": "",
-        "Rua": "RESIDENCIAL ALTOS DO AVECUIA",
-        "Equipe": "BRANCA",
-        "Micro": "",
-        "Posto": "VILA AMÉRICA",
-    },
-
-	{
-        "id": "",
-        "Rua": "RESIDENCIAL PORTAL DAS ARARAS",
-        "Equipe": "BRANCA",
-        "Micro": "GOV. MARIO COVAS,20",
-        "Posto": "VILA AMÉRICA",
-    },
-                                  
+                            
     {
         "id": "735",
         "Rua": "ANTONIO ARRAVAL FILHO",
@@ -7783,12 +7734,54 @@ var data = [
         "Posto": "VILA AMÉRICA",
     },
 
+{
+        "id": "152",
+        "Rua": "IVETA GIBIM ALCALA (ATÉ 132)",
+        "Equipe": "ROXA",
+        "Micro": "",
+        "Posto": "PATUCCI",
+	"CEP": "",
+    },
 
+    {
+        "id": "569",
+        "Rua": "VOLTA DO POÇO",
+        "Equipe": "BRANCA",
+        "Micro": "",
+        "Posto": "VILA AMÉRICA",
+    },              
+    
+    {
+        "id": "570",
+        "Rua": "TERRAS DO PORTO",
+        "Equipe": "BRANCA",
+        "Micro": "",
+        "Posto": "VILA AMÉRICA",
+    },
 
+	 {
+        "id": "",
+        "Rua": "FRANCISCO POLI",
+        "Equipe": "BRANCA",
+        "Micro": "",
+        "Posto": "VILA AMÉRICA",
+    },
 
+	{
+        "id": "",
+        "Rua": "RESIDENCIAL ALTOS DO AVECUIA",
+        "Equipe": "BRANCA",
+        "Micro": "",
+        "Posto": "VILA AMÉRICA",
+    },
 
-
-
+	{
+        "id": "",
+        "Rua": "RESIDENCIAL PORTAL DAS ARARAS",
+        "Equipe": "BRANCA",
+        "Micro": "GOV. MARIO COVAS,20",
+        "Posto": "VILA AMÉRICA",
+    },
 
 
 ];
