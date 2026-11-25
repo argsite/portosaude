@@ -3943,782 +3943,697 @@ var data = [
         "Posto": "BOM RETIRO",
         "CEP": "18549-899",
     },
-    
-    {
+
+{
         "id": "430",
         "Rua": "JOSE AVANCINI",
         "Equipe": "ROXA",
         "Micro": "01",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-151"
     },
-
     {
         "id": "431",
         "Rua": "SAO PEDRO",
         "Equipe": "ROXA",
         "Micro": "01",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-153"
     },
-
     {
         "id": "432",
         "Rua": "JOSE MANOEL ANTUNES",
         "Equipe": "ROXA",
         "Micro": "01",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-202"
     },
-
     {
         "id": "433",
         "Rua": "ALEXANDRE BAZZO",
         "Equipe": "ROXA",
         "Micro": "01",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-206"
     },
-
     {
         "id": "434",
         "Rua": "JOAO AVANCINI",
         "Equipe": "ROXA",
         "Micro": "01",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-204"
     },
-
     {
         "id": "435",
         "Rua": "GINDA TOME BAZZO",
         "Equipe": "ROXA",
         "Micro": "01",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-208"
     },
-
     {
         "id": "436",
         "Rua": "ARARITAGUABA",
         "Equipe": "ROXA",
         "Micro": "01",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-145"
     },
-
     {
         "id": "437",
         "Rua": "JOAO PESSOA",
         "Equipe": "ROXA",
         "Micro": "01",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-131"
     },
-
     {
         "id": "438",
         "Rua": "PEDRO FERNANDES DE CAMARGO",
         "Equipe": "ROXA",
         "Micro": "01",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-133"
     },
-
     {
         "id": "439",
         "Rua": "MONTEIRO LOBATO",
         "Equipe": "ROXA",
         "Micro": "01",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-129"
     },
-
     {
         "id": "440",
         "Rua": "BENEDITO AUGUSTO DE OLIVEIRA",
         "Equipe": "ROXA",
         "Micro": "01",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-127"
     },
-
     {
         "id": "441",
         "Rua": "OTHONI JOAQUIM DE SOUZA",
         "Equipe": "ROXA",
         "Micro": "01",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-125"
     },
-
     {
         "id": "442",
         "Rua": "GERALDO ESMÉDIO PIRES",
         "Equipe": "ROXA",
         "Micro": "01",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-139"
     },
-
     {
         "id": "443",
         "Rua": "JOAO PORTELA SOBRINHO",
         "Equipe": "ROXA",
         "Micro": "02",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-310"
     },
-
     {
         "id": "444",
         "Rua": "MARECHAL DEODORO",
         "Equipe": "ROXA",
         "Micro": "02",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-121"
     },
-
     {
         "id": "445",
         "Rua": "JUSTINO GOMIDE BUENO",
         "Equipe": "ROXA",
         "Micro": "02",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-330"
     },
-
     {
         "id": "446",
         "Rua": "NEWTON PRADO",
         "Equipe": "ROXA",
         "Micro": "02",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-119"
     },
-
     {
         "id": "447",
         "Rua": "OTONI JOAQUIM DE SOUZA",
         "Equipe": "ROXA",
         "Micro": "02",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-125"
     },
-
     {
         "id": "448",
         "Rua": "TRAVESSA ALBERTO GERTH",
         "Equipe": "ROXA",
         "Micro": "02",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-123"
     },
-
     {
         "id": "449",
         "Rua": "ANTONIO MANCIO DE CAMARGO",
         "Equipe": "ROXA",
         "Micro": "02",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-324"
     },
-
     {
         "id": "450",
         "Rua": "LUIZ ALBERTO DE ARUDA",
         "Equipe": "ROXA",
         "Micro": "02",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-322"
     },
-
     {
         "id": "451",
         "Rua": "JOSE MOTA",
         "Equipe": "ROXA",
         "Micro": "02",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-320"
     },
-
     {
         "id": "452",
         "Rua": "ADEMAR DE BARROS",
         "Equipe": "ROXA",
         "Micro": "02",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-073"
     },
-
     {
         "id": "453",
         "Rua": "BENEDITO JOSE DIANA",
         "Equipe": "ROXA",
         "Micro": "02",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-328"
     },
-
     {
         "id": "454",
         "Rua": "MILTON BISTAFA",
         "Equipe": "ROXA",
         "Micro": "02",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-314"
     },
-
     {
         "id": "455",
         "Rua": "JOSE MAURINO",
         "Equipe": "ROXA",
         "Micro": "03",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-093"
     },
-
     {
         "id": "456",
         "Rua": "BELMIRA MORAES FERNANDES",
         "Equipe": "ROXA",
         "Micro": "03",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-095"
     },
-
     {
         "id": "457",
         "Rua": "JOAQUIM OLAVO DE CARVALHO",
         "Equipe": "ROXA",
         "Micro": "03",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-099"
     },
-
     {
         "id": "458",
         "Rua": "RUI BARBOSA",
         "Equipe": "ROXA",
         "Micro": "03",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-117"
     },
-
     {
         "id": "459",
         "Rua": "TRAVESSA TESTILDE HENRIQUE",
         "Equipe": "ROXA",
         "Micro": "03",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-137"
     },
-
     {
         "id": "460",
         "Rua": "PRAÇA EUGENIO MOTA",
         "Equipe": "ROXA",
         "Micro": "03",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-135"
     },
-
     {
         "id": "461",
         "Rua": "NEWTON PRADO - 1 A 163",
         "Equipe": "ROXA",
         "Micro": "03",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-119"
     },
-
     {
         "id": "462",
         "Rua": "PRAÇA LAURO MAURINO",
         "Equipe": "ROXA",
         "Micro": "03",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-141"
     },
-
     {
         "id": "463",
         "Rua": "DOMINGOS MAURINO",
         "Equipe": "ROXA",
         "Micro": "03",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-149"
     },
-
     {
         "id": "464",
         "Rua": "BENEDITO LISBOA",
         "Equipe": "ROXA",
         "Micro": "03",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-143"
     },
-
     {
         "id": "465",
         "Rua": "ALTINO ARANTES",
         "Equipe": "ROXA",
         "Micro": "03",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-147"
     },
-
     {
         "id": "466",
         "Rua": "PRAÇA CORONEL ESMEDIO",
         "Equipe": "ROXA",
         "Micro": "03",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-069"
     },
-
     {
         "id": "467",
         "Rua": "ANDRE ROCHA",
         "Equipe": "ROXA",
         "Micro": "03",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-057"
     },
-
     {
         "id": "468",
         "Rua": "ADHEMAR DE BARROS - 436 A 596",
         "Equipe": "ROXA",
         "Micro": "03",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-073"
     },
-
     {
         "id": "469",
         "Rua": "JOSE BENEDITO NORONHA",
         "Equipe": "ROXA",
         "Micro": "03",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-097"
     },
-
     {
         "id": "470",
         "Rua": "LUIZA MINELLI",
         "Equipe": "ROXA",
         "Micro": "04",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-326"
     },
-
     {
         "id": "471",
         "Rua": "VICENTE RAVAZIO",
         "Equipe": "ROXA",
         "Micro": "04",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-306"
     },
-
     {
         "id": "472",
         "Rua": "SILVINO NOBREGA DA SILVA",
         "Equipe": "ROXA",
         "Micro": "04",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-308"
     },
-
     {
         "id": "473",
         "Rua": "SALVADOR ARRUDA",
         "Equipe": "ROXA",
         "Micro": "04",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-304"
     },
-
     {
         "id": "474",
         "Rua": "VICENTE GUARINI",
         "Equipe": "ROXA",
         "Micro": "04",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-115"
     },
-
     {
         "id": "475",
         "Rua": "CONEGO BELOTI",
         "Equipe": "ROXA",
         "Micro": "04",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-107"
     },
-
     {
         "id": "476",
         "Rua": "JULIO PRESTES DE ALBUQUERQUE",
         "Equipe": "ROXA",
         "Micro": "04",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-113"
     },
-
     {
         "id": "477",
         "Rua": "CONSTANTINI GUARINI",
         "Equipe": "ROXA",
         "Micro": "04",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-103"
     },
-
     {
         "id": "478",
         "Rua": "AV. ANTONIO PIRES DE ALMEIDA",
         "Equipe": "ROXA",
         "Micro": "04",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-077"
     },
-
     {
         "id": "479",
         "Rua": "LICIO MARCONDES DO AMARAL",
         "Equipe": "ROXA",
         "Micro": "04",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-109"
     },
-
     {
         "id": "480",
         "Rua": "BARAO DO RIO BRANCO",
         "Equipe": "ROXA",
         "Micro": "04",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-087"
     },
-
     {
         "id": "481",
         "Rua": "MIGUEI ELIAS ZAETI",
         "Equipe": "ROXA",
         "Micro": "04",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-101"
     },
-
     {
         "id": "482",
         "Rua": "PRINCESA ISABEL",
         "Equipe": "ROXA",
         "Micro": "04",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-111"
     },
-
     {
         "id": "483",
         "Rua": "SANTA CRUZ (ATÉ 939)",
         "Equipe": "ROXA",
         "Micro": "05",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-085"
     },
-
     {
         "id": "484",
         "Rua": "DOUTOR ALVIM",
         "Equipe": "ROXA",
         "Micro": "05",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-071"
     },
-
     {
         "id": "485",
         "Rua": "ANTONIO MARTINS SAMPAIO",
         "Equipe": "ROXA",
         "Micro": "05",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-083"
     },
-
     {
         "id": "486",
         "Rua": "ARCILIO BORGES",
         "Equipe": "ROXA",
         "Micro": "05",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-043"
     },
-
     {
         "id": "487",
         "Rua": "ADEMAR DE BARROS",
         "Equipe": "ROXA",
         "Micro": "05",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-073"
     },
-
     {
         "id": "488",
         "Rua": "ANTONIO PIRES DE AMEIDA",
         "Equipe": "ROXA",
         "Micro": "05",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-077"
     },
-
     {
         "id": "489",
         "Rua": "BANDEIRANTES",
         "Equipe": "ROXA",
         "Micro": "05",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-061"
     },
-
     {
         "id": "490",
         "Rua": "JOSE MARTINS BASTOS",
         "Equipe": "ROXA",
         "Micro": "05",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-065"
     },
-
     {
         "id": "491",
         "Rua": "JOAO TUANI",
         "Equipe": "ROXA",
         "Micro": "05",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-292"
     },
-
     {
         "id": "492",
         "Rua": "MARIO TUANI",
         "Equipe": "ROXA",
         "Micro": "05",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-294"
     },
-
     {
         "id": "493",
         "Rua": "PALMEIRAS",
         "Equipe": "ROXA",
         "Micro": "05",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-079"
     },
-
     {
         "id": "494",
         "Rua": "JOSE ANTONIO LEME",
         "Equipe": "ROXA",
         "Micro": "05",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-081"
     },
-
     {
         "id": "495",
         "Rua": "BARAO DO RIO BRANCO",
         "Equipe": "ROXA",
         "Micro": "05",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-087"
     },
-
     {
         "id": "496",
         "Rua": "CUSTODIO SACRAMENTO",
         "Equipe": "ROXA",
         "Micro": "05",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-053"
     },
-
     {
         "id": "497",
         "Rua": "BENEDITO STETNER",
         "Equipe": "ROXA",
         "Micro": "05",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-091"
     },
-
     {
         "id": "498",
         "Rua": "JOSE SACRAMENTO E SILVA",
         "Equipe": "ROXA",
         "Micro": "05",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-055"
     },
-
     {
         "id": "499",
         "Rua": "BRASIL",
         "Equipe": "ROXA",
         "Micro": "05",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-067"
     },
-
     {
         "id": "500",
         "Rua": "SABINO JOSE MELO",
         "Equipe": "ROXA",
         "Micro": "05",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-089"
     },
-
     {
         "id": "501",
         "Rua": "DRACO DE ALBUQUERQUE",
         "Equipe": "ROXA",
         "Micro": "05",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-059"
     },
-
     {
         "id": "502",
         "Rua": "CEZARIO CASTELUCCI",
         "Equipe": "ROXA",
         "Micro": "06",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18542-244"
     },
-
     {
         "id": "503",
         "Rua": "ARCILIO BORGES",
         "Equipe": "ROXA",
         "Micro": "06",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-043"
     },
-
     {
         "id": "504",
         "Rua": "JOAQUIM AGOSTINHO TORRES",
         "Equipe": "ROXA",
         "Micro": "06",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-033"
     },
-
     {
         "id": "505",
         "Rua": "CANDIDO MOTTA",
         "Equipe": "ROXA",
         "Micro": "06",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-021"
     },
-
     {
         "id": "505",
         "Rua": "ANTONIO MAGNATTI",
         "Equipe": "ROXA",
         "Micro": "06",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-017"
     },
-
     {
         "id": "506",
         "Rua": "PRAÇA DUQUE DE CAXIAS",
         "Equipe": "ROXA",
         "Micro": "06",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-019"
     },
-
     {
         "id": "507",
         "Rua": "JOSE BONIFÁCIO",
         "Equipe": "ROXA",
         "Micro": "06",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-051"
     },
-
     {
         "id": "508",
         "Rua": "PADRE LIDRO",
         "Equipe": "ROXA",
         "Micro": "06",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-045"
     },
-
     {
         "id": "509",
         "Rua": "TRISTAO PIRES",
         "Equipe": "ROXA",
         "Micro": "06",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-037"
     },
-
     {
         "id": "510",
         "Rua": "ANTONIO PIRES",
         "Equipe": "ROXA",
         "Micro": "06",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-039"
     },
-
     {
         "id": "511",
         "Rua": "JOAO ANGELIERI",
         "Equipe": "ROXA",
         "Micro": "06",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-041"
     },
-
     {
         "id": "512",
         "Rua": "FLODOALDO BUENO DE CAMARGO",
         "Equipe": "ROXA",
         "Micro": "06",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-027"
     },
-
     {
         "id": "513",
         "Rua": "GASTAO VIDIGAL",
         "Equipe": "ROXA",
         "Micro": "06",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-025"
     },
-
     {
         "id": "514",
         "Rua": "JOAO MOREIRA SALLES",
         "Equipe": "ROXA",
         "Micro": "06",
         "Posto": "PATUCCI",
-		"CEP": "",
+        "CEP": "18540-035"
     },
 
-{
+	{
         "id": "515",
         "Rua": "FRANCISCO GOMES TOLEDO",
         "Equipe": "LARANJA",
