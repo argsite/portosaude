@@ -7,7 +7,7 @@ body {
 
 /* Container fluido para desktop */
 .container {
- width: 98% !important;
+ width: 96% !important;
  /*max-width: 1450px !important;*/
  margin: 15px auto;
 }
