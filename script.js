@@ -1394,7 +1394,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "05 - VILA ALCALA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "18546-016",
+		"CEP": "18546-016",
     },
 
     {
@@ -1403,79 +1403,88 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "05 - VILA ALCALA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "18546-022",
+		"CEP": "18546-022",
     },
 
     {
         "id": "152",
         "Rua": "IVETA GIBIM ALCALA (A PARTIR DE 133)",
         "Equipe": "BRANCA",
-        "Micro": "05",
+        "Micro": "05 - VILA ALCALA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+		"CEP": "18546-028",
     },
 
     {
         "id": "153",
-        "Rua": "JOAO THOMAZ DE ALMEIDA",
+        "Rua": "JOAO TOMAZ DE ALMEIDA",
         "Equipe": "BRANCA",
-        "Micro": "05",
+        "Micro": "05 - VILA AMÉRICA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-044",
     },
 
     {
         "id": "154",
-        "Rua": "MAESTRO VOLTANE",
+        "Rua": "MAESTRO VOLTAIRE TORRES",
         "Equipe": "BRANCA",
-        "Micro": "05",
+        "Micro": "05 - VILA ALCALA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-026",
     },
 
     {
         "id": "155",
         "Rua": "MARIA DULCELINA PRESTES",
         "Equipe": "BRANCA",
-        "Micro": "05",
+        "Micro": "05 - VILA AMÉRICA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-048",
     },
 
     {
         "id": "156",
-        "Rua": "MARIA GESSIA RUBINI",
+        "Rua": "MARIA GESSIA SAMPAIO RUBINI",
         "Equipe": "BRANCA",
-        "Micro": "05",
+        "Micro": "05 - VILA AMÉRICA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-054",
     },
 
-    {
+	{
+        "id": "157",
+        "Rua": "MONSENHOR SECKLER",
+        "Equipe": "BRANCA",
+        "Micro": "03",
+        "Posto": "VILA AMÉRICA",
+		"CEP": "",
+    },
+    
+	{
         "id": "157",
         "Rua": "MONSENHOR SECKLER",
         "Equipe": "BRANCA",
         "Micro": "05",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+		"CEP": "",
     },
 
     {
         "id": "158",
         "Rua": "NAIR ANTUNES DE ALMEIDA",
         "Equipe": "BRANCA",
-        "Micro": "05",
+        "Micro": "05 - VILA ALCALA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+		"CEP": "18546-020",
     },
 
     {
         "id": "159",
-        "Rua": "PRAÇA FRANCISCO PADUA NAHUM",
+        "Rua": "PRAÇA FRANCISCO DE PADUA NAHUM",
         "Equipe": "BRANCA",
-        "Micro": "05",
+        "Micro": "05 - VILA ALCALA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-032",
     },
 
     {
