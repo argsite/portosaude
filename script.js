@@ -558,7 +558,7 @@ var data = [
         "Equipe": "VERDE",
         "Micro": "3",
         "Posto": "VANTE",
-	"CEP": " ",
+	"CEP": "18543-010",
     },
 
     {
@@ -7547,170 +7547,167 @@ var data = [
         "Posto": "BAMBU",
         "CEP": ""
     },
-                              
-    {
+
+{
         "id": "814",
         "Rua": "LUIS GUTIERREZ RUIZ",
         "Equipe": "BRANCA",
         "Micro": "",
         "Posto": "VILA AMÉRICA",
+        "CEP": ""
     },
-                              
     {
         "id": "815",
         "Rua": "LARISSA RAVELI",
         "Equipe": "BRANCA",
         "Micro": "",
         "Posto": "VILA AMÉRICA",
+        "CEP": "18545-066"
     },
-
-                              
     {
         "id": "816",
         "Rua": "FLORIANO PIRES",
         "Equipe": "BRANCA",
         "Micro": "",
         "Posto": "VILA AMÉRICA",
+        "CEP": "18545-060"
     },
-
-                              
     {
         "id": "817",
         "Rua": "CONDOMINIO SAO MATEUS",
         "Equipe": "BRANCA",
         "Micro": "",
         "Posto": "VILA AMÉRICA",
+        "CEP": ""
     },
-
-     {
+    {
         "id": "818",
         "Rua": "OSMILDO ROCHA",
         "Equipe": "BRANCA",
         "Micro": "",
         "Posto": "VILA AMÉRICA",
+        "CEP": "18545-210"
     },
-
     {
         "id": "819",
         "Rua": "ANTENOR BELLON",
         "Equipe": "BRANCA",
         "Micro": "",
         "Posto": "VILA AMÉRICA",
+        "CEP": "18545-218"
     },
-
     {
         "id": "820",
         "Rua": "FIORAVANTE MIETTO",
         "Equipe": "BRANCA",
         "Micro": "",
         "Posto": "VILA AMÉRICA",
+        "CEP": "18545-212"
     },
-
     {
         "id": "821",
         "Rua": "JOSE ATILIO COLE",
         "Equipe": "BRANCA",
         "Micro": "",
         "Posto": "VILA AMÉRICA",
+        "CEP": ""
     },
-
     {
         "id": "822",
         "Rua": "PEDRO GERALDO POLAZ",
         "Equipe": "BRANCA",
         "Micro": "",
         "Posto": "VILA AMÉRICA",
+        "CEP": ""
     },
-
     {
         "id": "823",
         "Rua": "ANSELMO BUENO DE OLIVEIRA",
         "Equipe": "BRANCA",
         "Micro": "",
         "Posto": "VILA AMÉRICA",
+        "CEP": "18545-216"
     },
-
     {
         "id": "824",
         "Rua": "FLAVIO SAMPAIO",
         "Equipe": "BRANCA",
         "Micro": "",
         "Posto": "VILA AMÉRICA",
+        "CEP": ""
     },
-
     {
         "id": "825",
         "Rua": "HENRIQUE WANDEVELD",
         "Equipe": "BRANCA",
         "Micro": "",
         "Posto": "VILA AMÉRICA",
+        "CEP": "18545-202"
     },
-
     {
         "id": "826",
         "Rua": "ALEXANDRE AMBROSIO",
         "Equipe": "BRANCA",
         "Micro": "",
         "Posto": "VILA AMÉRICA",
+        "CEP": "18545-220"
     },
-
-	 {
+    {
         "id": "827",
         "Rua": "LEONILDE CADETE DA SILVA",
         "Equipe": "BRANCA",
         "Micro": "",
         "Posto": "VILA AMÉRICA",
+        "CEP": "18545-208"
     },
-
-{
+    {
         "id": "152",
         "Rua": "IVETA GIBIM ALCALA (ATÉ 132)",
         "Equipe": "ROXA",
         "Micro": "",
         "Posto": "PATUCCI",
-	"CEP": "",
+        "CEP": "18546-028"
     },
-
     {
         "id": "569",
         "Rua": "VOLTA DO POÇO",
         "Equipe": "BRANCA",
         "Micro": "",
         "Posto": "VILA AMÉRICA",
-    },              
-    
+        "CEP": ""
+    },
     {
         "id": "570",
         "Rua": "TERRAS DO PORTO",
         "Equipe": "BRANCA",
         "Micro": "",
         "Posto": "VILA AMÉRICA",
+        "CEP": ""
     },
-
-	 {
+    {
         "id": "",
         "Rua": "FRANCISCO POLI",
         "Equipe": "BRANCA",
         "Micro": "",
         "Posto": "VILA AMÉRICA",
+        "CEP": "18545-290"
     },
-
-	{
+    {
         "id": "",
         "Rua": "RESIDENCIAL ALTOS DO AVECUIA",
         "Equipe": "BRANCA",
         "Micro": "",
         "Posto": "VILA AMÉRICA",
+        "CEP": ""
     },
-
-	{
+    {
         "id": "",
         "Rua": "RESIDENCIAL PORTAL DAS ARARAS",
         "Equipe": "BRANCA",
         "Micro": "GOV. MARIO COVAS,20",
         "Posto": "VILA AMÉRICA",
+        "CEP": ""
     },
-
 
 ];
 
