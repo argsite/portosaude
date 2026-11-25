@@ -7706,7 +7706,7 @@ var data = [
         "Equipe": "BRANCA",
         "Micro": "GOV. MARIO COVAS,20",
         "Posto": "VILA AMÉRICA",
-        "CEP": ""
+        "CEP": "18546-228"
     },
 
 ];
