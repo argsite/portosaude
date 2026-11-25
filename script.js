@@ -5075,6 +5075,7 @@ var data = [
         "Equipe": "PRATA",
         "Micro": "5 - DEISE",
         "CEP": "18542-458",
+        "Posto": "POPULAR"
     },
     {
         "id": "2",
@@ -5085,6 +5086,7 @@ var data = [
         "Equipe": "PRATA",
         "Micro": "6",
         "CEP": "18542-434",
+        "Posto": "POPULAR"
     },
     {
         "id": "3",
@@ -5095,6 +5097,7 @@ var data = [
         "Equipe": "PRATA",
         "Micro": "1 - FRANCIELLE",
         "CEP": "18542-380",
+        "Posto": "POPULAR"
     },
     {
         "id": "4",
@@ -5105,6 +5108,7 @@ var data = [
         "Equipe": "PRATA",
         "Micro": "5 - DEISE",
         "CEP": "18542-456",
+        "Posto": "POPULAR"
     },
     {
         "id": "5",
@@ -5115,6 +5119,7 @@ var data = [
         "Equipe": "PRATA",
         "Micro": "3 - ANDREIA",
         "CEP": "18542-388",
+        "Posto": "POPULAR"
     },
     {
         "id": "6",
@@ -5125,6 +5130,7 @@ var data = [
         "Equipe": "PRATA",
         "Micro": "3 - ANDREIA",
         "CEP": "18542-390",
+        "Posto": "POPULAR"
     },
     {
         "id": "7",
@@ -5135,6 +5141,7 @@ var data = [
         "Equipe": "PRATA",
         "Micro": "6",
         "CEP": "18542-438",
+        "Posto": "POPULAR"
     },
     {
         "id": "8",
@@ -5145,6 +5152,7 @@ var data = [
         "Equipe": "PRATA",
         "Micro": "6",
         "CEP": "18542-432",
+        "Posto": "POPULAR"
     },
     {
         "id": "9",
@@ -5155,6 +5163,7 @@ var data = [
         "Equipe": "PRATA",
         "Micro": "4 - JANE",
         "CEP": "18542-460",
+        "Posto": "POPULAR"
     },
     {
         "id": "10",
@@ -5165,6 +5174,7 @@ var data = [
         "Equipe": "PRATA",
         "Micro": "5 - DEISE",
         "CEP": "18542-454",
+        "Posto": "POPULAR"
     },
     {
         "id": "11",
@@ -5175,6 +5185,7 @@ var data = [
         "Equipe": "PRATA",
         "Micro": "1 - FRANCIELLE",
         "CEP": "18542-324",
+        "Posto": "POPULAR"
     },
     {
         "id": "12",
@@ -5185,6 +5196,7 @@ var data = [
         "Equipe": "PRATA",
         "Micro": "4 - JANE",
         "CEP": "18542-374",
+        "Posto": "POPULAR"
     },
     {
         "id": "13",
@@ -5195,6 +5207,7 @@ var data = [
         "Equipe": "PRATA",
         "Micro": "6",
         "CEP": "18542-430",
+        "Posto": "POPULAR"
     },
     {
         "id": "14",
@@ -5205,6 +5218,7 @@ var data = [
         "Equipe": "PRATA",
         "Micro": "5 - DEISE",
         "CEP": "18542-472",
+        "Posto": "POPULAR"
     },
     {
         "id": "15",
@@ -5215,6 +5229,7 @@ var data = [
         "Equipe": "PRATA",
         "Micro": "2",
         "CEP": "18542-360",
+        "Posto": "POPULAR"
     },
     {
         "id": "16",
@@ -5225,6 +5240,7 @@ var data = [
         "Equipe": "PRATA",
         "Micro": "1 - FRANCIELLE",
         "CEP": "18542-320",
+        "Posto": "POPULAR"
     },
     {
         "id": "17",
@@ -5235,6 +5251,7 @@ var data = [
         "Equipe": "PRATA",
         "Micro": "2",
         "CEP": "18542-326",
+        "Posto": "POPULAR"
     },
     {
         "id": "18",
@@ -5245,6 +5262,7 @@ var data = [
         "Equipe": "PRATA",
         "Micro": "4 - JANE",
         "CEP": "18542-366",
+        "Posto": "POPULAR"
     },
     {
         "id": "19",
@@ -5255,6 +5273,7 @@ var data = [
         "Equipe": "PRATA",
         "Micro": "5 - DEISE",
         "CEP": "18542-474",
+        "Posto": "POPULAR"
     },
     {
         "id": "20",
@@ -5265,6 +5284,7 @@ var data = [
         "Equipe": "PRATA",
         "Micro": "4 - JANE",
         "CEP": "18542-370",
+        "Posto": "POPULAR"
     },
     {
         "id": "21",
@@ -5275,6 +5295,7 @@ var data = [
         "Equipe": "PRATA",
         "Micro": "3 - ANDREIA",
         "CEP": "18542-384",
+        "Posto": "POPULAR"
     },
     {
         "id": "22",
@@ -5285,6 +5306,7 @@ var data = [
         "Equipe": "PRATA",
         "Micro": "6",
         "CEP": "18542-436",
+        "Posto": "POPULAR"
     },
     {
         "id": "23",
@@ -5295,6 +5317,7 @@ var data = [
         "Equipe": "PRATA",
         "Micro": "3 - ANDREIA",
         "CEP": "18542-386",
+        "Posto": "POPULAR"
     },
     {
         "id": "24",
@@ -5305,6 +5328,7 @@ var data = [
         "Equipe": "PRATA",
         "Micro": "2",
         "CEP": "18542-364",
+        "Posto": "POPULAR"
     },
     {
         "id": "25",
@@ -5315,6 +5339,7 @@ var data = [
         "Equipe": "PRATA",
         "Micro": "1 - FRANCIELLE",
         "CEP": "18542-322",
+        "Posto": "POPULAR"
     },
     {
         "id": "26",
@@ -5325,6 +5350,7 @@ var data = [
         "Equipe": "PRATA",
         "Micro": "4 - JANE",
         "CEP": "18542-372",
+        "Posto": "POPULAR"
     },
     {
         "id": "27",
@@ -5335,6 +5361,7 @@ var data = [
         "Equipe": "PRATA",
         "Micro": "1 - FRANCIELLE",
         "CEP": "18542-382",
+        "Posto": "POPULAR"
     },
     {
         "id": "28",
@@ -5345,6 +5372,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "3",
         "CEP": "18542-308",
+        "Posto": "POPULAR"
     },
     {
         "id": "29",
@@ -5355,6 +5383,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "3",
         "CEP": "18542-318",
+        "Posto": "POPULAR"
     },
     {
         "id": "30",
@@ -5365,6 +5394,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "2 - TATIANE",
         "CEP": "18542-358",
+        "Posto": "POPULAR"
     },
     {
         "id": "31",
@@ -5375,6 +5405,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "2 - TATIANE",
         "CEP": "18542-350",
+        "Posto": "POPULAR"
     },
     {
         "id": "32",
@@ -5385,6 +5416,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "6 - JESSICA",
         "CEP": "18542-276",
+        "Posto": "POPULAR"
     },
     {
         "id": "33",
@@ -5395,6 +5427,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "6 - JESSICA",
         "CEP": "18542-260",
+        "Posto": "POPULAR"
     },
     {
         "id": "34",
@@ -5405,6 +5438,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "2 - TATIANE",
         "CEP": "18542-354",
+        "Posto": "POPULAR"
     },
     {
         "id": "35",
@@ -5415,6 +5449,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "3",
         "CEP": "18542-362",
+        "Posto": "POPULAR"
     },
     {
         "id": "36",
@@ -5425,6 +5460,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "2 - TATIANE",
         "CEP": "18542-352",
+        "Posto": "POPULAR"
     },
     {
         "id": "37",
@@ -5435,6 +5471,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "2 - TATIANE",
         "CEP": "18542-314",
+        "Posto": "POPULAR"
     },
     {
         "id": "38",
@@ -5445,6 +5482,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "4",
         "CEP": "18542-226",
+        "Posto": "POPULAR"
     },
     {
         "id": "39",
@@ -5455,6 +5493,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "4",
         "CEP": "18542-244",
+        "Posto": "POPULAR"
     },
     {
         "id": "40",
@@ -5465,6 +5504,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "4",
         "CEP": "18542-220",
+        "Posto": "POPULAR"
     },
     {
         "id": "41",
@@ -5475,6 +5515,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "4",
         "CEP": "18542-232",
+        "Posto": "POPULAR"
     },
     {
         "id": "42",
@@ -5485,6 +5526,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "1 - CLEISE",
         "CEP": "18542-312",
+        "Posto": "POPULAR"
     },
     {
         "id": "43",
@@ -5495,6 +5537,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "3",
         "CEP": "18542-324",
+        "Posto": "POPULAR"
     },
     {
         "id": "44",
@@ -5505,6 +5548,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "4",
         "CEP": "18542-348",
+        "Posto": "POPULAR"
     },
     {
         "id": "45",
@@ -5515,6 +5559,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "6 - JESSICA",
         "CEP": "18542-278",
+        "Posto": "POPULAR"
     },
     {
         "id": "46",
@@ -5525,6 +5570,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "1 - CLEISE",
         "CEP": "18542-306",
+        "Posto": "POPULAR"
     },
     {
         "id": "47",
@@ -5535,6 +5581,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "3",
         "CEP": "18542-300",
+        "Posto": "POPULAR"
     },
     {
         "id": "48",
@@ -5545,6 +5592,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "1 - CLEISE",
         "CEP": "18542-316",
+        "Posto": "POPULAR"
     },
     {
         "id": "49",
@@ -5555,6 +5603,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "4",
         "CEP": "18542-230",
+        "Posto": "POPULAR"
     },
     {
         "id": "50",
@@ -5565,6 +5614,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "3",
         "CEP": "18542-346",
+        "Posto": "POPULAR"
     },
     {
         "id": "51",
@@ -5575,6 +5625,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "4",
         "CEP": "18542-222",
+        "Posto": "POPULAR"
     },
     {
         "id": "52",
@@ -5585,6 +5636,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "1 - CLEISE",
         "CEP": "18542-302",
+        "Posto": "POPULAR"
     },
     {
         "id": "53",
@@ -5595,6 +5647,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "5 - CRISTIANE",
         "CEP": "18542-268",
+        "Posto": "POPULAR"
     },
     {
         "id": "54",
@@ -5605,6 +5658,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "3",
         "CEP": "18542-330",
+        "Posto": "POPULAR"
     },
     {
         "id": "55",
@@ -5615,6 +5669,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "3",
         "CEP": "18542-310",
+        "Posto": "POPULAR"
     },
     {
         "id": "56",
@@ -5625,6 +5680,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "5 - CRISTIANE",
         "CEP": "18542-272",
+        "Posto": "POPULAR"
     },
     {
         "id": "57",
@@ -5635,6 +5691,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "2 - TATIANE",
         "CEP": "18542-366",
+        "Posto": "POPULAR"
     },
     {
         "id": "58",
@@ -5645,6 +5702,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "6 - JESSICA",
         "CEP": "18542-280",
+        "Posto": "POPULAR"
     },
     {
         "id": "59",
@@ -5655,6 +5713,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "5 - CRISTIANE",
         "CEP": "18542-274*",
+        "Posto": "POPULAR"
     },
     {
         "id": "60",
@@ -5665,6 +5724,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "5 - CRISTIANE",
         "CEP": "18542-270",
+        "Posto": "POPULAR"
     },
     {
         "id": "61",
@@ -5675,6 +5735,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "6 - JESSICA",
         "CEP": "18542-266",
+        "Posto": "POPULAR"
     },
     {
         "id": "62",
@@ -5685,6 +5746,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "4",
         "CEP": "18542-228",
+        "Posto": "POPULAR"
     },
     {
         "id": "63",
@@ -5695,6 +5757,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "3",
         "CEP": "18542-342",
+        "Posto": "POPULAR"
     },
     {
         "id": "64",
@@ -5705,6 +5768,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "4",
         "CEP": "18542-224",
+        "Posto": "POPULAR"
     },
     {
         "id": "65",
@@ -5715,6 +5779,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "3",
         "CEP": "18542-364",
+        "Posto": "POPULAR"
     },
     {
         "id": "66",
@@ -5725,6 +5790,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "2 - TATIANE",
         "CEP": "",
+        "Posto": "POPULAR"
     },
     {
         "id": "67",
@@ -5735,6 +5801,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "1 - CLEISE",
         "CEP": "18542-304",
+        "Posto": "POPULAR"
     },
     {
         "id": "68",
@@ -5745,6 +5812,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "2 - TATIANE",
         "CEP": "18542-450",
+        "Posto": "POPULAR"
     },
     {
         "id": "69",
@@ -5755,6 +5823,7 @@ var data = [
         "Equipe": "AMARELA",
         "Micro": "2 - TATIANE",
         "CEP": "18542-340",
+        "Posto": "POPULAR"
     },
     {
         "id": "70",
@@ -5765,6 +5834,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "1 - DAIANE",
         "CEP": "18542-520",
+        "Posto": "POPULAR"
     },
     {
         "id": "71",
@@ -5775,6 +5845,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "6 - MARCIA",
         "CEP": "18545-276",
+        "Posto": "POPULAR"
     },
     {
         "id": "72",
@@ -5785,6 +5856,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "5 - GRAZIELE",
         "CEP": "18545-132",
+        "Posto": "POPULAR"
     },
     {
         "id": "73",
@@ -5795,6 +5867,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "1 - DAIANE",
         "CEP": "18542-514",
+        "Posto": "POPULAR"
     },
     {
         "id": "74",
@@ -5805,6 +5878,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "6 - MARCIA",
         "CEP": "18545-278",
+        "Posto": "POPULAR"
     },
     {
         "id": "75",
@@ -5815,6 +5889,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "4",
         "CEP": "18545-156",
+        "Posto": "POPULAR"
     },
     {
         "id": "76",
@@ -5825,6 +5900,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "",
         "CEP": "18545-244",
+        "Posto": "POPULAR"
     },
     {
         "id": "77",
@@ -5835,6 +5911,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "6 - MARCIA",
         "CEP": "18542-470",
+        "Posto": "POPULAR"
     },
     {
         "id": "78",
@@ -5845,6 +5922,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "2 - RENATA",
         "CEP": "18542-492",
+        "Posto": "POPULAR"
     },
     {
         "id": "79",
@@ -5855,6 +5933,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "6 - MARCIA",
         "CEP": "18545-288",
+        "Posto": "POPULAR"
     },
     {
         "id": "80",
@@ -5865,6 +5944,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "5 - GRAZIELE",
         "CEP": "18545-266",
+        "Posto": "POPULAR"
     },
     {
         "id": "81",
@@ -5875,6 +5955,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "3 - MARCIA",
         "CEP": "18542-476",
+        "Posto": "POPULAR"
     },
     {
         "id": "82",
@@ -5885,6 +5966,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "5 - GRAZIELE",
         "CEP": "18545-136",
+        "Posto": "POPULAR"
     },
     {
         "id": "83",
@@ -5895,6 +5977,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "1 - DAIANE",
         "CEP": "18542-494",
+        "Posto": "POPULAR"
     },
     {
         "id": "84",
@@ -5905,6 +5988,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "",
         "CEP": "18545-242",
+        "Posto": "POPULAR"
     },
     {
         "id": "85",
@@ -5915,6 +5999,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "4",
         "CEP": "18545-150",
+        "Posto": "POPULAR"
     },
     {
         "id": "86",
@@ -5925,6 +6010,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "2 - RENATA",
         "CEP": "18542-498",
+        "Posto": "POPULAR"
     },
     {
         "id": "87",
@@ -5935,6 +6021,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "1 - DAIANE",
         "CEP": "18542-516",
+        "Posto": "POPULAR"
     },
     {
         "id": "88",
@@ -5945,6 +6032,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "",
         "CEP": "18545-282",
+        "Posto": "POPULAR"
     },
     {
         "id": "89",
@@ -5955,6 +6043,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "6 - MARCIA",
         "CEP": "18545-272",
+        "Posto": "POPULAR"
     },
     {
         "id": "90",
@@ -5965,6 +6054,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "2 - RENATA",
         "CEP": "18542-484",
+        "Posto": "POPULAR"
     },
     {
         "id": "91",
@@ -5975,6 +6065,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "4",
         "CEP": "18545-154",
+        "Posto": "POPULAR"
     },
     {
         "id": "92",
@@ -5985,6 +6076,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "2 - RENATA",
         "CEP": "18542-496",
+        "Posto": "POPULAR"
     },
     {
         "id": "93",
@@ -5995,6 +6087,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "1 - DAIANE",
         "CEP": "18542-518",
+        "Posto": "POPULAR"
     },
     {
         "id": "94",
@@ -6005,6 +6098,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "5 - GRAZIELE",
         "CEP": "18545-280",
+        "Posto": "POPULAR"
     },
     {
         "id": "95",
@@ -6015,6 +6109,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "5 - GRAZIELE",
         "CEP": "18545-134",
+        "Posto": "POPULAR"
     },
     {
         "id": "96",
@@ -6025,6 +6120,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "5 - GRAZIELE",
         "CEP": "18545-138",
+        "Posto": "POPULAR"
     },
     {
         "id": "97",
@@ -6035,6 +6131,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "4",
         "CEP": "18545-248",
+        "Posto": "POPULAR"
     },
     {
         "id": "98",
@@ -6045,6 +6142,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "2 - RENATA",
         "CEP": "18542-500",
+        "Posto": "POPULAR"
     },
     {
         "id": "99",
@@ -6055,6 +6153,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "2 - RENATA",
         "CEP": "18545-284",
+        "Posto": "POPULAR"
     },
     {
         "id": "100",
@@ -6065,6 +6164,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "4",
         "CEP": "18545-264",
+        "Posto": "POPULAR"
     },
     {
         "id": "101",
@@ -6075,6 +6175,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "1 - DAIANE",
         "CEP": "18542-508",
+        "Posto": "POPULAR"
     },
     {
         "id": "102",
@@ -6085,6 +6186,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "6 - MARCIA",
         "CEP": "18545-270",
+        "Posto": "POPULAR"
     },
     {
         "id": "103",
@@ -6095,6 +6197,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "",
         "CEP": "18545-236",
+        "Posto": "POPULAR"
     },
     {
         "id": "104",
@@ -6105,6 +6208,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "4",
         "CEP": "18545-260",
+        "Posto": "POPULAR"
     },
     {
         "id": "105",
@@ -6115,6 +6219,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "",
         "CEP": "18545-238",
+        "Posto": "POPULAR"
     },
     {
         "id": "106",
@@ -6125,6 +6230,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "4",
         "CEP": "18545-152",
+        "Posto": "POPULAR"
     },
     {
         "id": "107",
@@ -6135,6 +6241,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "6 - MARCIA",
         "CEP": "18545-268",
+        "Posto": "POPULAR"
     },
     {
         "id": "108",
@@ -6145,8 +6252,8 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "2 - RENATA",
         "CEP": "18542-478",
+        "Posto": "POPULAR"
     },
-
     {
         "id": "108",
         "Rua": "VERGINIO ANGELIERE (VA) - A PARTIR DE 122",
@@ -6156,8 +6263,8 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "3 - MARCIA",
         "CEP": "18542-478",
+        "Posto": "POPULAR"
     },
-    
     {
         "id": "109",
         "Rua": "ADOLFO FERRARI (AF)",
@@ -6167,6 +6274,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "5 - KAREN",
         "CEP": "18542-262",
+        "Posto": "POPULAR"
     },
     {
         "id": "110",
@@ -6177,6 +6285,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "3 - MICHELE",
         "CEP": "18542-076",
+        "Posto": "POPULAR"
     },
     {
         "id": "111",
@@ -6187,6 +6296,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "2",
         "CEP": "18545-096",
+        "Posto": "POPULAR"
     },
     {
         "id": "112",
@@ -6197,6 +6307,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "6 - GLADIS",
         "CEP": "18542-058",
+        "Posto": "POPULAR"
     },
     {
         "id": "113",
@@ -6207,6 +6318,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "6 - GLADIS",
         "CEP": "18542-060",
+        "Posto": "POPULAR"
     },
     {
         "id": "114",
@@ -6217,6 +6329,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "5 - KAREN",
         "CEP": "18542-074",
+        "Posto": "POPULAR"
     },
     {
         "id": "115",
@@ -6227,6 +6340,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "6 - GLADIS",
         "CEP": "18542-074",
+        "Posto": "POPULAR"
     },
     {
         "id": "116",
@@ -6237,6 +6351,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "3 - MICHELE",
         "CEP": "18542-068",
+        "Posto": "POPULAR"
     },
     {
         "id": "117",
@@ -6247,6 +6362,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "5 - KAREN",
         "CEP": "18542-072",
+        "Posto": "POPULAR"
     },
     {
         "id": "118",
@@ -6257,6 +6373,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "2",
         "CEP": "18545-106",
+        "Posto": "POPULAR"
     },
     {
         "id": "119",
@@ -6267,6 +6384,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "4 - MIRO",
         "CEP": "18542-070",
+        "Posto": "POPULAR"
     },
     {
         "id": "120",
@@ -6277,6 +6395,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "4 - MIRO",
         "CEP": "18542-156",
+        "Posto": "POPULAR"
     },
     {
         "id": "121",
@@ -6287,6 +6406,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "4 - MIRO",
         "CEP": "18542-158",
+        "Posto": "POPULAR"
     },
     {
         "id": "122",
@@ -6297,6 +6417,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "5 - KAREN",
         "CEP": "18542-064",
+        "Posto": "POPULAR"
     },
     {
         "id": "123",
@@ -6307,6 +6428,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "3 - MICHELE",
         "CEP": "18542-164",
+        "Posto": "POPULAR"
     },
     {
         "id": "124",
@@ -6317,6 +6439,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "2",
         "CEP": "18545-100",
+        "Posto": "POPULAR"
     },
     {
         "id": "125",
@@ -6327,6 +6450,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "4 - MIRO",
         "CEP": "18542-244",
+        "Posto": "POPULAR"
     },
     {
         "id": "126",
@@ -6337,6 +6461,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "6 - GLADIS",
         "CEP": "18542-056",
+        "Posto": "POPULAR"
     },
     {
         "id": "127",
@@ -6347,6 +6472,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "4 - MIRO",
         "CEP": "18542-240",
+        "Posto": "POPULAR"
     },
     {
         "id": "128",
@@ -6357,6 +6483,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "3 - MICHELE",
         "CEP": "18542-166",
+        "Posto": "POPULAR"
     },
     {
         "id": "129",
@@ -6367,6 +6494,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "4 - MIRO",
         "CEP": "18542-172",
+        "Posto": "POPULAR"
     },
     {
         "id": "130",
@@ -6377,6 +6505,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "4 - MIRO",
         "CEP": "18542-182",
+        "Posto": "POPULAR"
     },
     {
         "id": "131",
@@ -6387,6 +6516,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "4 - MIRO",
         "CEP": "18542-242",
+        "Posto": "POPULAR"
     },
     {
         "id": "132",
@@ -6397,6 +6527,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "2",
         "CEP": "18542-062",
+        "Posto": "POPULAR"
     },
     {
         "id": "134",
@@ -6407,6 +6538,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "5 - KAREN",
         "CEP": "18542-066",
+        "Posto": "POPULAR"
     },
     {
         "id": "135",
@@ -6417,6 +6549,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "2",
         "CEP": "18545-098",
+        "Posto": "POPULAR"
     },
     {
         "id": "136",
@@ -6427,6 +6560,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "2",
         "CEP": "18545-102",
+        "Posto": "POPULAR"
     },
     {
         "id": "137",
@@ -6437,6 +6571,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "3 - MICHELE",
         "CEP": "18542-078",
+        "Posto": "POPULAR"
     },
     {
         "id": "138",
@@ -6447,6 +6582,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "2",
         "CEP": "18545-110",
+        "Posto": "POPULAR"
     },
     {
         "id": "139",
@@ -6457,6 +6593,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "2",
         "CEP": "18545-108",
+        "Posto": "POPULAR"
     },
     {
         "id": "140",
@@ -6467,6 +6604,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "3 - MICHELE",
         "CEP": "18542-254",
+        "Posto": "POPULAR"
     },
     {
         "id": "141",
@@ -6477,6 +6615,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "5 - KAREN",
         "CEP": "18542-268",
+        "Posto": "POPULAR"
     },
     {
         "id": "142",
@@ -6487,6 +6626,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "4 - MIRO",
         "CEP": "18542-184",
+        "Posto": "POPULAR"
     },
     {
         "id": "143",
@@ -6497,6 +6637,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "5 - KAREN",
         "CEP": "18542-272",
+        "Posto": "POPULAR"
     },
     {
         "id": "144",
@@ -6507,6 +6648,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "2",
         "CEP": "18545-104",
+        "Posto": "POPULAR"
     },
     {
         "id": "145",
@@ -6517,6 +6659,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "6 - GLADIS",
         "CEP": "18542-050",
+        "Posto": "POPULAR"
     },
     {
         "id": "146",
@@ -6527,6 +6670,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "5 - KAREN",
         "CEP": "18542-270",
+        "Posto": "POPULAR"
     },
     {
         "id": "147",
@@ -6537,6 +6681,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "2",
         "CEP": "18545-092",
+        "Posto": "POPULAR"
     },
     {
         "id": "148",
@@ -6547,6 +6692,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "5 - KAREN",
         "CEP": "18542-264*",
+        "Posto": "POPULAR"
     },
     {
         "id": "149",
@@ -6557,6 +6703,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "4 - MIRO",
         "CEP": "18542-160",
+        "Posto": "POPULAR"
     },
     {
         "id": "150",
@@ -6567,6 +6714,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "6 - GLADIS ",
         "CEP": "18542-052",
+        "Posto": "POPULAR"
     },
     {
         "id": "151",
@@ -6577,6 +6725,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "3 - MICHELE",
         "CEP": "18542-162",
+        "Posto": "POPULAR"
     },
     {
         "id": "152",
@@ -6587,6 +6736,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "4 - MIRO",
         "CEP": "18542-150",
+        "Posto": "POPULAR"
     },
     {
         "id": "153",
@@ -6597,6 +6747,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "4 - MIRO",
         "CEP": "18542-168",
+        "Posto": "POPULAR"
     },
     {
         "id": "154",
@@ -6607,6 +6758,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "4 - MIRO",
         "CEP": "18542-180**",
+        "Posto": "POPULAR"
     },
     {
         "id": "155",
@@ -6617,6 +6769,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "4 - MIRO",
         "CEP": "18542-170",
+        "Posto": "POPULAR"
     },
     {
         "id": "156",
@@ -6627,6 +6780,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "6 - GLADIS",
         "CEP": "18542-054",
+        "Posto": "POPULAR"
     },
     {
         "id": "157",
@@ -6637,6 +6791,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "2",
         "CEP": "18545-094",
+        "Posto": "POPULAR"
     },
     {
         "id": "158",
@@ -6647,6 +6802,7 @@ var data = [
         "Equipe": "OURO",
         "Micro": "2",
         "CEP": "18545-124",
+        "Posto": "POPULAR"
     },
     {
         "id": "159",
@@ -6657,6 +6813,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "4",
         "CEP": "18545-262",
+        "Posto": "POPULAR"
     },
     {
         "id": "160",
@@ -6667,6 +6824,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "",
         "CEP": "18545-234",
+        "Posto": "POPULAR"
     },
     {
         "id": "161",
@@ -6677,6 +6835,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "6 - MARCIA",
         "CEP": "18545-274",
+        "Posto": "POPULAR"
     },
     {
         "id": "162",
@@ -6687,6 +6846,7 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "",
         "CEP": "18545-240",
+        "Posto": "POPULAR"
     },
     {
         "id": "165",
@@ -6697,6 +6857,7 @@ var data = [
         "Equipe": "PRATA",
         "Micro": "4 - JANE",
         "CEP": "18542-368",
+        "Posto": "POPULAR"
     },
     {
         "id": "166",
@@ -6707,9 +6868,10 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "",
         "CEP": "",
+        "Posto": "POPULAR"
     },
     {
-    "id": "167",
+        "id": "167",
         "Rua": "LUIZ CARLOS LISBOA (LCL) - 106 EM DIANTE",
         "Bairro": "Residencial Portal Ville Ipê",
         "Medico": "GEISA",
@@ -6717,10 +6879,10 @@ var data = [
         "Equipe": "OURO",
         "Micro": "",
         "CEP": "18545-120",
+        "Posto": "POPULAR"
     },
-    
     {
-    "id": "168",
+        "id": "168",
         "Rua": "AMELIO BARNABE (AB)",
         "Bairro": "Rolando Giuli",
         "Medico": "BRUNO",
@@ -6728,10 +6890,10 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "",
         "CEP": "18542-522",
+        "Posto": "POPULAR"
     },
-
-     {
-    "id": "169",
+    {
+        "id": "169",
         "Rua": "CARDOSO PIMENTEL (CP)",
         "Bairro": "Belo Alto",
         "Medico": "BRUNO",
@@ -6739,10 +6901,10 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "",
         "CEP": "18545-130",
+        "Posto": "POPULAR"
     },
-
-     {
-    "id": "170",
+    {
+        "id": "170",
         "Rua": "PEDRO MOREAU (PM)",
         "Bairro": "Rolando Giuli",
         "Medico": "BRUNO",
@@ -6750,7 +6912,8 @@ var data = [
         "Equipe": "ROSA",
         "Micro": "1 - DAIANE",
         "CEP": "18542-502",
-    },
+        "Posto": "POPULAR"
+    }
 
 	{
         "id": "152",
