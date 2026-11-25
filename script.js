@@ -1608,54 +1608,54 @@ var data = [
         "id": "171",
         "Rua": "SANTA CRUZ (A PARTIR DE 940)",
         "Equipe": "BRANCA",
-        "Micro": "06",
+        "Micro": "06 - VILA ALCALA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+		"CEP": "18546-000",
     },
 
     {
         "id": "172",
         "Rua": "MIOSOTES",
         "Equipe": "BRANCA",
-        "Micro": "06",
+        "Micro": "06 - JARDIM BELA VISTA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18547-182",
     },
 
     {
         "id": "173",
         "Rua": "MARGARIDAS",
         "Equipe": "BRANCA",
-        "Micro": "06",
+        "Micro": "06 - JARDIM BELA VISTA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+		"CEP": "18547-198",
     },
 
     {
         "id": "174",
         "Rua": "ORQUIDEAS",
         "Equipe": "BRANCA",
-        "Micro": "06",
+        "Micro": "06 - JARDIM BELA VISTA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+		"CEP": "18547-180",
     },
 
     {
         "id": "175",
         "Rua": "GERANIOS",
         "Equipe": "BRANCA",
-        "Micro": "06",
+        "Micro": "06 - JARDIM BELA VISTA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18547-208",
     },
 
     {
         "id": "176",
         "Rua": "DALIAS",
         "Equipe": "BRANCA",
-        "Micro": "06",
+        "Micro": "06 - JARDIM BELA VISTA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+		"CEP": "18547-204",
     },
 
     {
