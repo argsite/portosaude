@@ -94,12 +94,12 @@ var data = [
 
     {
         "id": "10",
-        "Rua": "MARIA BENEDITA DOS SANTOS",
+        "Rua": "MARIA BENEDITA DOS SANTOS DE OLIVEIRA",
         "Equipe": "AZUL",
         "Micro": "1 - SÃO CARLOS",
         "Posto": "VANTE",
         "ACS": "TIAGO",
-	"CEP": "",
+	"CEP": "18543-203",
     },
 
     {
