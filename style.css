@@ -103,8 +103,8 @@ table.table tr th:nth-child(4), table.table tr td:nth-child(4) { width: 10%; }
 */ 
 
 /* Distribuição das 5 colunas no Desktop - para quando acrescentar coluna CEP */
-table.table tr th:nth-child(1), table.table tr td:nth-child(1) { width: 38%; }
-table.table tr th:nth-child(2), table.table tr td:nth-child(2) { width: 18%; }
+table.table tr th:nth-child(1), table.table tr td:nth-child(1) { width: 42%; }
+table.table tr th:nth-child(2), table.table tr td:nth-child(2) { width: 14%; }
 table.table tr th:nth-child(3), table.table tr td:nth-child(3) { width: 18%; }
 table.table tr th:nth-child(4), table.table tr td:nth-child(4) { width: 13%; }
 table.table tr th:nth-child(5), table.table tr td:nth-child(5) { width: 13%; }
