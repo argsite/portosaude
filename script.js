@@ -7696,6 +7696,7 @@ function create_elment(item) {
         <td><span `+ getEquipe(item.Equipe) + `><i class="fa fa-circle" style="font-size:22px"></i></span> ${item.Equipe}</td>                        
         <td>${item.Micro}</td>
         <td>${item.Posto}</td>
+		<td>${item.CEP}</td>
     </tr>
     `;
 }
