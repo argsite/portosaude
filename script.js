@@ -1491,18 +1491,18 @@ var data = [
         "id": "160",
         "Rua": "SILVINO TRISTAO DE CAMARGO",
         "Equipe": "BRANCA",
-        "Micro": "05",
+        "Micro": "05 - VILA AMERICA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18546-052",
     },
 
     {
         "id": "161",
-        "Rua": "AZALEIAS",
+        "Rua": "AZALEAS",
         "Equipe": "BRANCA",
-        "Micro": "06",
+        "Micro": "06 - JARDIM BELA VISTA",
         "Posto": "VILA AMÉRICA",
-	"CEP": "",
+	"CEP": "18547-186",
     },
 
     {
