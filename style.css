@@ -152,7 +152,8 @@ table.table td a:hover {
 .laranja { color: #FF8C00; }  
 .roxa { color: #9932CC; }  
 .branca { color: #F5F5F5; }  
-.bronze { color: #A0522D; }  
+.bronze { color: #A0522D; }
+.verde { color: #228B22; } 
 
 /* Degradê perfeito para a equipe ARCO-IRIS */
 .arcoiris {
