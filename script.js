@@ -7630,11 +7630,11 @@ var data = [
     },
     {
         "id": "824",
-        "Rua": "FLAVIO SAMPAIO",
+        "Rua": "FLAVIO DE SAMPAIO",
         "Equipe": "BRANCA",
         "Micro": "",
         "Posto": "VILA AMÉRICA",
-        "CEP": ""
+        "CEP": "18545-214"
     },
     {
         "id": "825",
