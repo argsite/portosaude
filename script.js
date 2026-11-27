@@ -7590,6 +7590,15 @@ var data = [
         "Posto": "VILA AMÉRICA",
         "CEP": "18545-068"
     },
+
+	{
+        "id": "816",
+        "Rua": "IRMÃ ELIZA AMBROSIO",
+        "Equipe": "BRANCA",
+        "Micro": "RES JANDIRA DIEZ ALCALA",
+        "Posto": "VILA AMÉRICA",
+        "CEP": "18545-062"
+    },
 	
     {
         "id": "817",
