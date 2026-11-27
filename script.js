@@ -7560,7 +7560,7 @@ var data = [
         "id": "815",
         "Rua": "LARISSA RAVELI",
         "Equipe": "BRANCA",
-        "Micro": "",
+        "Micro": "RES JANDIRA DIEZ ALCALA",
         "Posto": "VILA AMÉRICA",
         "CEP": "18545-066"
     },
@@ -7568,10 +7568,29 @@ var data = [
         "id": "816",
         "Rua": "FLORIANO PIRES",
         "Equipe": "BRANCA",
-        "Micro": "",
+        "Micro": "RES JANDIRA DIEZ ALCALA",
         "Posto": "VILA AMÉRICA",
         "CEP": "18545-060"
     },
+
+	{
+        "id": "816",
+        "Rua": "LUIZ ZANETTI PASCOLI",
+        "Equipe": "BRANCA",
+        "Micro": "RES JANDIRA DIEZ ALCALA",
+        "Posto": "VILA AMÉRICA",
+        "CEP": "18545-064"
+    },
+
+	{
+        "id": "816",
+        "Rua": "CONEGO HUMBERTO GHIZZI",
+        "Equipe": "BRANCA",
+        "Micro": "RES JANDIRA DIEZ ALCALA",
+        "Posto": "VILA AMÉRICA",
+        "CEP": "18545-068"
+    },
+	
     {
         "id": "817",
         "Rua": "CONDOMINIO SAO MATEUS",
@@ -7584,7 +7603,7 @@ var data = [
         "id": "818",
         "Rua": "OSMILDO ROCHA",
         "Equipe": "BRANCA",
-        "Micro": "",
+        "Micro": "RES SÃO FRANCISCO",
         "Posto": "VILA AMÉRICA",
         "CEP": "18545-210"
     },
@@ -7592,7 +7611,7 @@ var data = [
         "id": "819",
         "Rua": "ANTENOR BELLON",
         "Equipe": "BRANCA",
-        "Micro": "",
+        "Micro": "RES SÃO FRANCISCO",
         "Posto": "VILA AMÉRICA",
         "CEP": "18545-218"
     },
@@ -7600,31 +7619,31 @@ var data = [
         "id": "820",
         "Rua": "FIORAVANTE MIETTO",
         "Equipe": "BRANCA",
-        "Micro": "",
+        "Micro": "RES SÃO FRANCISCO",
         "Posto": "VILA AMÉRICA",
         "CEP": "18545-212"
     },
     {
         "id": "821",
-        "Rua": "JOSE ATILIO COLE",
+        "Rua": "JOSE ATILIO COLI",
         "Equipe": "BRANCA",
-        "Micro": "",
+        "Micro": "RES SÃO FRANCISCO",
         "Posto": "VILA AMÉRICA",
-        "CEP": ""
+        "CEP": "18545-206"
     },
     {
         "id": "822",
-        "Rua": "PEDRO GERALDO POLAZ",
+        "Rua": "PEDRO GERALDO MARCOLINO POLAZ",
         "Equipe": "BRANCA",
-        "Micro": "",
+        "Micro": "RES SÃO FRANCISCO",
         "Posto": "VILA AMÉRICA",
-        "CEP": ""
+        "CEP": "18545-204"
     },
     {
         "id": "823",
         "Rua": "ANSELMO BUENO DE OLIVEIRA",
         "Equipe": "BRANCA",
-        "Micro": "",
+        "Micro": "RES SÃO FRANCISCO",
         "Posto": "VILA AMÉRICA",
         "CEP": "18545-216"
     },
@@ -7632,7 +7651,7 @@ var data = [
         "id": "824",
         "Rua": "FLAVIO DE SAMPAIO",
         "Equipe": "BRANCA",
-        "Micro": "",
+        "Micro": "RES SÃO FRANCISCO",
         "Posto": "VILA AMÉRICA",
         "CEP": "18545-214"
     },
@@ -7640,7 +7659,7 @@ var data = [
         "id": "825",
         "Rua": "HENRIQUE WANDEVELD",
         "Equipe": "BRANCA",
-        "Micro": "",
+        "Micro": "RES SÃO FRANCISCO",
         "Posto": "VILA AMÉRICA",
         "CEP": "18545-202"
     },
@@ -7648,7 +7667,7 @@ var data = [
         "id": "826",
         "Rua": "ALEXANDRE AMBROSIO",
         "Equipe": "BRANCA",
-        "Micro": "",
+        "Micro": "RES SÃO FRANCISCO",
         "Posto": "VILA AMÉRICA",
         "CEP": "18545-220"
     },
@@ -7656,7 +7675,7 @@ var data = [
         "id": "827",
         "Rua": "LEONILDE CADETE DA SILVA",
         "Equipe": "BRANCA",
-        "Micro": "",
+        "Micro": "RES SÃO FRANCISCO",
         "Posto": "VILA AMÉRICA",
         "CEP": "18545-208"
     },
